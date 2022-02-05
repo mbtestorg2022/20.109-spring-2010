@@ -27,8 +27,81 @@ This assignment is due by 5 PM on your final wet lab day.
 
 ### Evaluation
 
-| SECTION | WORTH (%) | CRITERIA |
-| --- | --- | --- |
-| Background, Experimental Question, and Design | 30 |  {{< br >}}{{< br >}} \- Is the idea interesting and relevant? {{< br >}}{{< br >}} \- Is previous foundational research sufficiently explained? {{< br >}}{{< br >}} \- Is the experimental design likely to address the question? {{< br >}}{{< br >}}  |
-| Results and Interpretation of Data | 50 |  {{< br >}}{{< br >}} \- Is the description of results complete (including necessary methods details)? {{< br >}}{{< br >}} \- Do the figures clearly convey the data? {{< br >}}{{< br >}} \- Are interpretations of each piece of data reasonable? {{< br >}}{{< br >}}  |
-| Contextualizing Results and Suggestions for Future Work | 20 |  {{< br >}}{{< br >}} \- Is the import of the present experiment neither over- nor under-stated? {{< br >}}{{< br >}} \- Are minor suggestions for future experimental changes likely to address any problems encountered? {{< br >}}{{< br >}} \- Are broader suggestions for future work interesting and relevant? {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTION
+{{< thclose >}}
+{{< thopen >}}
+WORTH (%)
+{{< thclose >}}
+{{< thopen >}}
+CRITERIA
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Background, Experimental Question, and Design
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Is the idea interesting and relevant?
+
+\- Is previous foundational research sufficiently explained?
+
+\- Is the experimental design likely to address the question?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Results and Interpretation of Data
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Is the description of results complete (including necessary methods details)?
+
+\- Do the figures clearly convey the data?
+
+\- Are interpretations of each piece of data reasonable?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Contextualizing Results and Suggestions for Future Work
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Is the import of the present experiment neither over- nor under-stated?
+
+\- Are minor suggestions for future experimental changes likely to address any problems encountered?
+
+\- Are broader suggestions for future work interesting and relevant?
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

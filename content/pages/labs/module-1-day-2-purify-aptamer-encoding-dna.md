@@ -6,7 +6,7 @@ title: 'Module 1, Day 2: Purify Aptamer-Encoding DNA'
 uid: 52bbd0a9-989c-ea78-b8db-094bc1580980
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-1-amplify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) >
 
 Introduction
 ------------
@@ -42,13 +42,102 @@ You will use a 3% agarose gel to run your three PCRs from last time, as well as 
 5.  Once all the samples have been loaded, we will attach the gel box to the power supply and run at 100 V for 60 minutes.
 6.  Later you will be shown how to photograph your gel and excise the relevant bands of DNA. Begin by anticipating where you expect to see your sample band relative to the bands of the [DNA Ladder](https://www.neb.com/products/markers-and-ladders/dna-markers-and-ladders/dna-markers-and-ladders).
 
-| LANE | SAMPLES | LANE | SAMPLES |
-| --- | --- | --- | --- |
-| 1 | DNA ladder (load 15 μL) | 6 | DNA ladder (load 15 μL) |
-| 2 | Group 1, NTC | 7 | Group 2, NTC |
-| 3 | Group 1, 6-5 | 8 | Group 2, 6-5 |
-| 4 | Group 1, 8-12 | 9 | Group 2, 8-12 |
-| 5 | BLANK | 10 | BLANK 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLES
+{{< thclose >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+DNA ladder (load 15 μL)
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+DNA ladder (load 15 μL)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1, NTC
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2, NTC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1, 6-5
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2, 6-5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1, 8-12
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2, 8-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 _Sample Result_
 

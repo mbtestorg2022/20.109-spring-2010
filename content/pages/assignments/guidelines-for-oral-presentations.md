@@ -36,12 +36,160 @@ How to Deal with Nerves
 Format
 ------
 
-| SECTION | MINUTES | NUMBER OF Slides | DO | DON'T |
-| --- | --- | --- | --- | --- |
-| Introduction | ~2 | 2-3 |  {{< br >}}{{< br >}} \- Set the scene for the data you will present - introduce key concepts that the audience will need to follow along {{< br >}}{{< br >}} \- At the beginning or end of the introduction, briefly state the overall scope and significance of the study - what is the central question and why is it interesting? {{< br >}}{{< br >}} \- Try to summarize background material with a model slide {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Assume you are addressing experts {{< br >}}{{< br >}} \- Give more information than is absolutely needed to understand the rest of your talk {{< br >}}{{< br >}} \- Put too much information on each slide. You can bring in a few details as you speak if you are using PowerPoint animation {{< br >}}{{< br >}}  |
-| Data | ~7 | 4-6 |  {{< br >}}{{< br >}} \- Present the data in a logical sequence, letting each slide build upon the last {{< br >}}{{< br >}} \- Include a title for each slide. The title should be the conclusion to be drawn {{< br >}}{{< br >}} \- Make every element of your slide visible to the entire room. This means 20 point font or greater {{< br >}}{{< br >}} \- Interpret each slide thoroughly and carefully {{< br >}}{{< br >}} \- Point out strengths and weaknesses of the data along the way {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Read your talk. Similarly, don’t read lists from slides {{< br >}}{{< br >}} \- Put too much information on each slide. Each slide should make only one point {{< br >}}{{< br >}} \- Ever say, "I know you can’t read this, but…" Everything on each slide should be legible. {{< br >}}{{< br >}} \- Be afraid to remind audience how the data fits into the overall question {{< br >}}{{< br >}}  |
-| Summary | ~1 | 1 |  {{< br >}}{{< br >}} \- Review each of your main "messages" {{< br >}}{{< br >}} \- Say what the study contributed to the field {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Forget to acknowledge all contributors {{< br >}}{{< br >}}  |
-| Question & Answer | ? | 0 |  {{< br >}}{{< br >}} \- Answer the question being asked. If you are unclear about the question, ask for clarification {{< br >}}{{< br >}} \- Respect every question and questioner {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Take too long with one question. If the topic is involved, suggest you meet after the talk to discuss it more {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTION
+{{< thclose >}}
+{{< thopen >}}
+MINUTES
+{{< thclose >}}
+{{< thopen >}}
+NUMBER OF Slides
+{{< thclose >}}
+{{< thopen >}}
+DO
+{{< thclose >}}
+{{< thopen >}}
+DON'T
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+~2
+{{< tdclose >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Set the scene for the data you will present - introduce key concepts that the audience will need to follow along
+
+\- At the beginning or end of the introduction, briefly state the overall scope and significance of the study - what is the central question and why is it interesting?
+
+\- Try to summarize background material with a model slide
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Assume you are addressing experts
+
+\- Give more information than is absolutely needed to understand the rest of your talk
+
+\- Put too much information on each slide. You can bring in a few details as you speak if you are using PowerPoint animation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Data
+{{< tdclose >}}
+{{< tdopen >}}
+~7
+{{< tdclose >}}
+{{< tdopen >}}
+4-6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Present the data in a logical sequence, letting each slide build upon the last
+
+\- Include a title for each slide. The title should be the conclusion to be drawn
+
+\- Make every element of your slide visible to the entire room. This means 20 point font or greater
+
+\- Interpret each slide thoroughly and carefully
+
+\- Point out strengths and weaknesses of the data along the way
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Read your talk. Similarly, don’t read lists from slides
+
+\- Put too much information on each slide. Each slide should make only one point
+
+\- Ever say, "I know you can’t read this, but…" Everything on each slide should be legible.
+
+\- Be afraid to remind audience how the data fits into the overall question
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Summary
+{{< tdclose >}}
+{{< tdopen >}}
+~1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Review each of your main "messages"
+
+\- Say what the study contributed to the field
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Forget to acknowledge all contributors
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Question & Answer
+{{< tdclose >}}
+{{< tdopen >}}
+?
+{{< tdclose >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Answer the question being asked. If you are unclear about the question, ask for clarification
+
+\- Respect every question and questioner
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Take too long with one question. If the topic is involved, suggest you meet after the talk to discuss it more
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Rehearse Your Talk Several Times
 --------------------------------

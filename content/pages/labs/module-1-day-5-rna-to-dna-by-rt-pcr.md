@@ -6,7 +6,7 @@ title: 'Module 1, Day 5: RNA to DNA by RT-PCR'
 uid: e11e968b-82aa-fefc-994a-6731a910335d
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) >
 
 Introduction
 ------------
@@ -67,15 +67,156 @@ Protocols
 3.  Add 20 μL of your recovered RNA to the Master Mix.
 4.  The following thermal cycler program will be used:
 
-| SEGMENT | CYCLES | TEMPRATURE (° C) | TIME | PURPOSE |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 50 | 30 min | reverse transcription |
-| 2 | 1 | 95 | 15 min | activate polymerase, deactivate RT enzymes, denature template |
-| 3-5 | 20 | 94 | 30 sec | denature (PCR) |
-| &nbsp; |
-| &nbsp; | 57 | 1 min | anneal (PCR) |
-| &nbsp; | 72 | 1 min | extend (PCR) |
-| 4 | 1 | 72 | 7 min | final extension 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEGMENT
+{{< thclose >}}
+{{< thopen >}}
+CYCLES
+{{< thclose >}}
+{{< thopen >}}
+TEMPRATURE (° C)
+{{< thclose >}}
+{{< thopen >}}
+TIME
+{{< thclose >}}
+{{< thopen >}}
+PURPOSE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+30 min
+{{< tdclose >}}
+{{< tdopen >}}
+reverse transcription
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+95
+{{< tdclose >}}
+{{< tdopen >}}
+15 min
+{{< tdclose >}}
+{{< tdopen >}}
+activate polymerase, deactivate RT enzymes, denature template
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-5
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+94
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+{{< tdopen >}}
+denature (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+57
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+{{< tdopen >}}
+anneal (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+{{< tdopen >}}
+extend (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+7 min
+{{< tdclose >}}
+{{< tdopen >}}
+final extension
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part 3: WAC Session
 
@@ -108,12 +249,105 @@ Reagent List
 *   Gel materials as on Day 2
 *   RT-PCR Master Mix
 
-| COMPONENET | CONCENTRATION | VOLUME |
-| --- | --- | --- |
-| Primers | 0.6 μM each | 1.5 μL of 20 μM stock, each |
-| dNTPs | 400 μM each | 2 μL |
-| Enzymes | unknown | 2 μL |
-| Reaction buffer | N/A (multi-component) | 10 μL |
-| Bovine serum albumin | Not part of the kit, added by us | Final \[BSA\] = 0.1 %, 0.5 μL added |
-| Water | N/A | 12.5 μL (double-check) |
-| Template | 1pg-2μg | Added by students, 20 μL
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COMPONENET
+{{< thclose >}}
+{{< thopen >}}
+CONCENTRATION
+{{< thclose >}}
+{{< thopen >}}
+VOLUME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Primers
+{{< tdclose >}}
+{{< tdopen >}}
+0.6 μM each
+{{< tdclose >}}
+{{< tdopen >}}
+1.5 μL of 20 μM stock, each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+dNTPs
+{{< tdclose >}}
+{{< tdopen >}}
+400 μM each
+{{< tdclose >}}
+{{< tdopen >}}
+2 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzymes
+{{< tdclose >}}
+{{< tdopen >}}
+unknown
+{{< tdclose >}}
+{{< tdopen >}}
+2 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction buffer
+{{< tdclose >}}
+{{< tdopen >}}
+N/A (multi-component)
+{{< tdclose >}}
+{{< tdopen >}}
+10 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Bovine serum albumin
+{{< tdclose >}}
+{{< tdopen >}}
+Not part of the kit, added by us
+{{< tdclose >}}
+{{< tdopen >}}
+Final \[BSA\] = 0.1 %, 0.5 μL added
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+{{< tdopen >}}
+12.5 μL (double-check)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Template
+{{< tdclose >}}
+{{< tdopen >}}
+1pg-2μg
+{{< tdclose >}}
+{{< tdopen >}}
+Added by students, 20 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

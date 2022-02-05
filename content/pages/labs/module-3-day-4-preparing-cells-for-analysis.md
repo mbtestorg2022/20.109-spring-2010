@@ -6,7 +6,7 @@ title: 'Module 3, Day 4: Preparing Cells for Analysis'
 uid: 9f1add66-0448-ffba-794a-48d70e4c97b2
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-3-testing-cell-viability) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-5-transcript-level-analysis) >
 
 Introduction
 ------------
@@ -46,7 +46,7 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
     *   Let the teaching faculty know if you have difficulty focusing within a bead.
 2.  Aspirate the culture medium from each of your samples. Be careful not to suck up the beads, while using a serological pipet just as you did when washing your freshly synthesized beads. A 10 mL pipet size should work well for most beads, while for very delicate beads, you should use a 2 mL serological pipet or even a P1000.
 3.  About half of your beads will be used to measure protein content: move these to an eppendorf tube. The goal is about 10-15 (2-3 mm) beads per tube.
-    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (<1 mm), you might use 20 or more.
+    *   For large beads (4-5 mm), you might use only 5-10 beads, and for very small beads (\<1 mm), you might use 20 or more.
 4.  The other half will be used to isolate RNA. Using a sterile spatula, transfer the beads into a fresh well of your 6-well plate. This transfer step is to exclude any cells that are growing on the bottom of the plate (as opposed to actually in the beads) from analysis.
 
 **Samples for RNA**
@@ -90,10 +90,75 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 15.  Ideally, you will use 100 ng of RNA in each RT-PCR reaction. However, you also want all reactions to start with an equal amount of RNA template. Because you are doing two reactions per RNA sample, at most you can use 20 μL of template per reaction. If you can use 100 ng per reaction within these contraints, do so. Otherwise, figure out which one of your samples is limiting, and scale all the other sample amounts that you add so they are equal. The table below may be helpful.
 16.  Finally, note that your RNA should be diluted in water such that you add 30 μL of template per RT-PCR reaction.
 
-| SAMPLE | A260 | RNA CONC. μg/mL) | MAX RNA PER RXN (ng in 20 μL) | VOLUME RNA NEEDED PER RXN | VOLUME WATER NEEDED PER RXN |
-| --- | --- | --- | --- | --- | --- |
-| 1 | &nbsp; |
-| 2 | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+A260
+{{< thclose >}}
+{{< thopen >}}
+RNA CONC. μg/mL)
+{{< thclose >}}
+{{< thopen >}}
+MAX RNA PER RXN (ng in 20 μL)
+{{< thclose >}}
+{{< thopen >}}
+VOLUME RNA NEEDED PER RXN
+{{< thclose >}}
+{{< thopen >}}
+VOLUME WATER NEEDED PER RXN
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part 3: RT-PCR
 
@@ -106,14 +171,138 @@ You will prepare cell-bead samples in two different ways: one will allow you to 
 5.  Now you can add 30 μL of the appropriate RNA to each tube containing Master Mix. Be sure to do one collagen I and one collagen II reaction for each sample.
 6.  The following thermal cycler program will be used:
 
-| SEGMENT | CYCLES | TEMPERATURE (° C) | TIME | PURPOSE |
-| --- | --- | --- | --- | --- |
-| 1 | 1 | 50 | 30 min | reverse transcription |
-| 2 | 1 | 95 | 15 min | activate polymerase, deactivate RT enzymes, denature template |
-| 3 | 30 | 94 | 1 min | denature (PCR) |
-| &nbsp; | 54 | 1 min | anneal (PCR) |
-| &nbsp; | 72 | 1 min | extend (PCR) |
-| 4 | 1 | 72 | 10 min | final extension 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEGMENT
+{{< thclose >}}
+{{< thopen >}}
+CYCLES
+{{< thclose >}}
+{{< thopen >}}
+TEMPERATURE (° C)
+{{< thclose >}}
+{{< thopen >}}
+TIME
+{{< thclose >}}
+{{< thopen >}}
+PURPOSE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+30 min
+{{< tdclose >}}
+{{< tdopen >}}
+reverse transcription
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+95
+{{< tdclose >}}
+{{< tdopen >}}
+15 min
+{{< tdclose >}}
+{{< tdopen >}}
+activate polymerase, deactivate RT enzymes, denature template
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+94
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+{{< tdopen >}}
+denature (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+54
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+{{< tdopen >}}
+anneal (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+{{< tdopen >}}
+extend (PCR)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+10 min
+{{< tdclose >}}
+{{< tdopen >}}
+final extension
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 After the RT-PCR is completed, the teaching faculty will store the samples in the freezer until next time.
 
@@ -146,14 +335,96 @@ Reagent List
 *   RT-PCR Master Mixes
     *   using 1-step RT-PCR kit from Qiagen
 
-| COMPONENET | CONCENTRATION | VOLUME |
-| --- | --- | --- |
-| Primers | variable: 0.1, 0.3, or 0.6 μM | 1.5 μL of 1:5 dilution each |
-| dNTPs | 400 μM each | 2 μL |
-| Enzymes | unknown | 2 μL |
-| Reaction buffer | N/A (multi-component) | 10 μL |
-| Water | N/A | 3 μL |
-| Template (+ more water) | 1 pg - 2 μg | Added by students 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COMPONENET
+{{< thclose >}}
+{{< thopen >}}
+CONCENTRATION
+{{< thclose >}}
+{{< thopen >}}
+VOLUME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Primers
+{{< tdclose >}}
+{{< tdopen >}}
+variable: 0.1, 0.3, or 0.6 μM
+{{< tdclose >}}
+{{< tdopen >}}
+1.5 μL of 1:5 dilution each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+dNTPs
+{{< tdclose >}}
+{{< tdopen >}}
+400 μM each
+{{< tdclose >}}
+{{< tdopen >}}
+2 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzymes
+{{< tdclose >}}
+{{< tdopen >}}
+unknown
+{{< tdclose >}}
+{{< tdopen >}}
+2 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reaction buffer
+{{< tdclose >}}
+{{< tdopen >}}
+N/A (multi-component)
+{{< tdclose >}}
+{{< tdopen >}}
+10 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Water
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+{{< tdopen >}}
+3 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Template (+ more water)
+{{< tdclose >}}
+{{< tdopen >}}
+1 pg - 2 μg
+{{< tdclose >}}
+{{< tdopen >}}
+Added by students
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 *   Primers
     *   CN I forward; reverse \[~200 bp\]: CGAGGTCGCACTGGTGATG ; ATGTTCTCGATCTGCTGGCT

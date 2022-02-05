@@ -36,16 +36,108 @@ We appreciate that time management can be a difficult skill to develop, and that
 
 See the [Assignments]({{< baseurl >}}/pages/assignments) page for more details on these items.
 
-| MAJOR ASSIGNMENTS |
-| --- |
-| MODULE | TOPICS | ASSIGNMENTS | % OF FINAL GRADE |
-| --- | --- | --- | --- |
-| 1 | RNA Engineering | Laboratory report | 15 |
-| Computational analysis | 5 |
-| Journal club presentation | 10 |
-| 2 | Protein Engineering | Research article | 25 |
-| 3 | Cell-Biomaterial Engineering | Research idea presentation | 20 |
-| Data summary | 5 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MAJOR ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODULE
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+% OF FINAL GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+RNA Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Laboratory report
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Computational analysis
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal club presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Protein Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Research article
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cell-Biomaterial Engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Research idea presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Data summary
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 In addition to the module major assignments listed above, there are several other forms of required coursework.
 
@@ -63,34 +155,513 @@ More about [OpenWetWare use in 20.109](/courses/biological-engineering/20-109-la
 Calendar
 --------
 
-| SES # | MODULE DAY | LECTURES | LABS | KEY DATES |
-| --- | --- | --- | --- | --- |
-| 1 | &nbsp; | Orientation (Dr. Stachowiak) | &nbsp; |
-| {{< td-colspan 5 >}}**Module 1: RNA Engineering (Prof. Niles)**{{< /td-colspan >}} |||||
-| 2 | 1 | Introduction | Amplify aptamer-encoding DNA | &nbsp; |
-| 3 | 2 | SELEX I: Building a Library | Purify aptamer-encoding DNA | &nbsp; |
-| 4 | 3 | SELEX II: Selecting RNA with target functionality | Prepare RNA by IVT | &nbsp; |
-| 5 | 4 | SELEX III: Technical advances & problem-solving | Purify RNA and run affinity column | &nbsp; |
-| 6 | 5 | Characterizing aptamers | RNA to DNA by RT-PCR | &nbsp; |
-| 7 | 6 | Introduction to porphyrins:chemistry & biology | Post-selection IVT Journal Club 1 | &nbsp; |
-| 8 | 7 | Aptamer applications in biology & technology | Aptamer binding assay | &nbsp; |
-| 9 | 8 | Aptamers as therapeutics | Journal Club 2 | &nbsp; |
-| {{< td-colspan 5 >}}**Module 2: Protein Engineering (Prof. Jasanoff)**{{< /td-colspan >}} |||||
-| 10 | 1 | Introduction | Start-up protein engineering | Module 1 draft report due |
-| 11 | 2 | Rational protein design | Site-directed mutagenesis | &nbsp; |
-| 12 | 3 | Fluorescence and sensors | Bacterial amplification of DNA | &nbsp; |
-| 13 | 4 | Protein expression | Prepare expression system | &nbsp; |
-| 14 | 5 | Review & gene analysis | Induce protein and evaluate DNA | &nbsp; |
-| 15 | 6 | Purification and protein analysis | Characterize protein expression | Module 1 final report due |
-| 16 | 7 | Binding & affinity measurements | Assay protein behavior | &nbsp; |
-| 17 | 8 | High throughput engineering | Data analysis | &nbsp; |
-| {{< td-colspan 5 >}}**Module 3: Cell-Biomaterial Engineering (Dr. Stachowiak)**{{< /td-colspan >}} |||||
-| 18 | 1 | Introduction | Start-up biomaterials engineering | Module 2 draft report due |
-| 19 | 2 | Introduction to biomaterials; cartilage composition | Initiate cell culture | &nbsp; |
-| 20 | 3 | Basic statistics; standards in scientific communities I | Testing cell viability | &nbsp; |
-| 21 | 4 | Standards in scientific communities II; cell viability | Preparing cells for analysis | &nbsp; |
-| 22 | 5 | Assays for transcription and protein levels | Transcript-level analysis | &nbsp; |
-| 23 | 6 | Cartilage TE: from _in vitro_ and _in vivo_ models to the clinic | Protein-level analysis | Module 2 final report due |
-| 24 | 7 | Creating your proposal presentation | Wrap-up analysis | Module 3 final report due |
-| 25 | 8 | Drug and gene delivery; clinical progress in engineering tissues besides cartilage | Student presentations | &nbsp; |
-| 26 | &nbsp; | Evaluations and celebratory luncheon |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MODULE DAY
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Orientation (Dr. Stachowiak)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 1: RNA Engineering (Prof. Niles)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Amplify aptamer-encoding DNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+SELEX I: Building a Library
+{{< tdclose >}}
+{{< tdopen >}}
+Purify aptamer-encoding DNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+SELEX II: Selecting RNA with target functionality
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare RNA by IVT
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+SELEX III: Technical advances & problem-solving
+{{< tdclose >}}
+{{< tdopen >}}
+Purify RNA and run affinity column
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Characterizing aptamers
+{{< tdclose >}}
+{{< tdopen >}}
+RNA to DNA by RT-PCR
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to porphyrins:chemistry & biology
+{{< tdclose >}}
+{{< tdopen >}}
+Post-selection IVT Journal Club 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Aptamer applications in biology & technology
+{{< tdclose >}}
+{{< tdopen >}}
+Aptamer binding assay
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Aptamers as therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+Journal Club 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 2: Protein Engineering (Prof. Jasanoff)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Start-up protein engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1 draft report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Rational protein design
+{{< tdclose >}}
+{{< tdopen >}}
+Site-directed mutagenesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Fluorescence and sensors
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial amplification of DNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Protein expression
+{{< tdclose >}}
+{{< tdopen >}}
+Prepare expression system
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Review & gene analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Induce protein and evaluate DNA
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Purification and protein analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Characterize protein expression
+{{< tdclose >}}
+{{< tdopen >}}
+Module 1 final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Binding & affinity measurements
+{{< tdclose >}}
+{{< tdopen >}}
+Assay protein behavior
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+High throughput engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Data analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="5" >}}
+**Module 3: Cell-Biomaterial Engineering (Dr. Stachowiak)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+Start-up biomaterials engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2 draft report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to biomaterials; cartilage composition
+{{< tdclose >}}
+{{< tdopen >}}
+Initiate cell culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic statistics; standards in scientific communities I
+{{< tdclose >}}
+{{< tdopen >}}
+Testing cell viability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Standards in scientific communities II; cell viability
+{{< tdclose >}}
+{{< tdopen >}}
+Preparing cells for analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Assays for transcription and protein levels
+{{< tdclose >}}
+{{< tdopen >}}
+Transcript-level analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cartilage TE: from _in vitro_ and _in vivo_ models to the clinic
+{{< tdclose >}}
+{{< tdopen >}}
+Protein-level analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Module 2 final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Creating your proposal presentation
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap-up analysis
+{{< tdclose >}}
+{{< tdopen >}}
+Module 3 final report due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Drug and gene delivery; clinical progress in engineering tissues besides cartilage
+{{< tdclose >}}
+{{< tdopen >}}
+Student presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Evaluations and celebratory luncheon
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

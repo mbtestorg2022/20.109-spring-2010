@@ -16,14 +16,152 @@ We appreciate that time management can be a difficult skill to develop, and that
 Major Assignments
 -----------------
 
-| MODULES | TOPICS | ASSIGNMENTS | % OF FINAL GRADE | DESCRIPTIONS |
-| --- | --- | --- | --- | --- |
-| 1 | [RNA Engineering]({{< baseurl >}}/pages/labs#RNA_Engineering) | Laboratory report | 15 |  {{< br >}}{{< br >}} [Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-engineering-laboratory-report) {{< br >}}{{< br >}} [Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research) {{< br >}}{{< br >}}  |
-| Computational analysis | 5 |  {{< br >}}{{< br >}} [Assignment description]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-computational-analysis) {{< br >}}{{< br >}} Data ([RTF]({{< baseurl >}}/resources/mit20_109s10_m1_anly_data)) {{< br >}}{{< br >}}  |
-| Journal club presentation | 10 |  {{< br >}}{{< br >}} [Sign-up for articles]({{< baseurl >}}/pages/assignments/module-1-assignments-journal-club)  {{< br >}}{{< br >}} [Guidelines for oral presentations]({{< baseurl >}}/pages/assignments/guidelines-for-oral-presentations) {{< br >}}{{< br >}} Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m1_orl_rubric)) {{< br >}}{{< br >}}  |
-| 2 | [Protein Engineering]({{< baseurl >}}/pages/labs#Protein_Engineering) | Research article | 25 |  {{< br >}}{{< br >}} [Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article) {{< br >}}{{< br >}} [Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research) {{< br >}}{{< br >}}  |
-| 3 | [Cell-Biomaterial Engineering]({{< baseurl >}}/pages/labs#Biomaterial_Engineering) | Research idea presentation | 20 |  {{< br >}}{{< br >}} [Assignment description]({{< baseurl >}}/pages/assignments/module-3-assignment-oral-presentations) {{< br >}}{{< br >}} Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m3_orl_rubric)) {{< br >}}{{< br >}}  |
-| Data summary | 5 | [Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-3-assignment-cell-biomaterial-engineering-report)  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+MODULES
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+% OF FINAL GRADE
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+[RNA Engineering]({{< baseurl >}}/pages/labs#RNA_Engineering)
+{{< tdclose >}}
+{{< tdopen >}}
+Laboratory report
+{{< tdclose >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-engineering-laboratory-report)
+
+[Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Computational analysis
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Assignment description]({{< baseurl >}}/pages/assignments/module-1-assignment-rna-computational-analysis)
+
+Data ([RTF]({{< baseurl >}}/resources/mit20_109s10_m1_anly_data))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal club presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Sign-up for articles]({{< baseurl >}}/pages/assignments/module-1-assignments-journal-club) 
+
+[Guidelines for oral presentations]({{< baseurl >}}/pages/assignments/guidelines-for-oral-presentations)
+
+Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m1_orl_rubric))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+[Protein Engineering]({{< baseurl >}}/pages/labs#Protein_Engineering)
+{{< tdclose >}}
+{{< tdopen >}}
+Research article
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-2-assignment-protein-engineering-research-article)
+
+[Guidelines for writing up your research]({{< baseurl >}}/pages/assignments/guidelines-for-writing-up-your-research)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+[Cell-Biomaterial Engineering]({{< baseurl >}}/pages/labs#Biomaterial_Engineering)
+{{< tdclose >}}
+{{< tdopen >}}
+Research idea presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Assignment description]({{< baseurl >}}/pages/assignments/module-3-assignment-oral-presentations)
+
+Evaluation rubric ([PDF]({{< baseurl >}}/resources/mit20_109s10_m3_orl_rubric))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Data summary
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment description and evaluation rubric]({{< baseurl >}}/pages/assignments/module-3-assignment-cell-biomaterial-engineering-report) 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Daily Work
 ----------

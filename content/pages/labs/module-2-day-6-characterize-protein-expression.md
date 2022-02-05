@@ -6,7 +6,7 @@ title: 'Module 2, Day 6: Characterize Protein Expression'
 uid: 9c1357cd-6c40-9ae7-8aaa-ac8a92d65cee
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) >
 
 Introduction
 ------------
@@ -53,16 +53,201 @@ Protocols
 2.  For your other five samples, you should take the amount of bacterial lysate corresponding to the same number of cells as the lowest concentration sample. For example, if the OD600 of your WT -IPTG sample was 0.05, and the OD600 of your WT +IPTG sample was 0.30, you would take 15 µL of the -IPTG, but only 2.5 µL of the +IPTG sample.
 3.  Next, add enough water so the each sample has 15 µL of liquid in it. You might use the table below to guide your work.
 
-| SAMPLE/LANE # | SAMPLE NAME | OD600 | SAMPLE VOLUME (µL) | WATER VOLUME (µL) | LOADING VOLUME (µL) |
-| --- | --- | --- | --- | --- | --- |
-| 0 | pre-stained ladder | \--- | \--- | \--- | 10 |
-| 1 | &nbsp; | 25 |
-| 2 | &nbsp; | 25 |
-| 3 | &nbsp; | 25 |
-| 4 | &nbsp; | 25 |
-| 5 | &nbsp; | 25 |
-| 6 | &nbsp; | 25 |
-| 7 | Unstained ladder | \--- | \--- | \--- | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SAMPLE/LANE #
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE NAME
+{{< thclose >}}
+{{< thopen >}}
+OD600
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE VOLUME (µL)
+{{< thclose >}}
+{{< thopen >}}
+WATER VOLUME (µL)
+{{< thclose >}}
+{{< thopen >}}
+LOADING VOLUME (µL)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+pre-stained ladder
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Unstained ladder
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+\---
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Now add 15 µL of 2X sample buffer to 15 µL of each of your diluted lysates. Also retrieve 15 µL samples of MW markers from the teaching faculty.
     *   The pre-stained marker (lane 0) will be used to track the progress of the gel.
@@ -118,14 +303,117 @@ You will process three samples (the three +IPTG extracts) according to the follo
 3.  Add 1 mL of Bradford reagent to each standard, as well as to your three unknown protein samples. Incubate 10-20 min at room temperature.
 4.  Measure the absorbance of each sample at 595 nm. Work as quickly as you can, because the absorbance will continue to slowly change over time. To get a sense of the error incurred due to the ongoing reaction, measure your blank sample both at the beginning and at the end of your run.
 
-| SAMPLE (mg/mL) | A595 | SAMPLE | A595 |
-| --- | --- | --- | --- |
-| BSA 0.1 | &nbsp; | Blank - start | &nbsp; |
-| BSA 0.2 | &nbsp; | WT IPC | &nbsp; |
-| BSA 0.4 | &nbsp; | Mutant 1 | &nbsp; |
-| BSA 0.6 | &nbsp; | Mutant 2 | &nbsp; |
-| BSA 0.8 | &nbsp; | Blank - end | &nbsp; |
-| BSA 1.0 | &nbsp; | \----------- | \----------- 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SAMPLE (mg/mL)
+{{< thclose >}}
+{{< thopen >}}
+A595
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+A595
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 0.1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Blank - start
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 0.2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+WT IPC
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 0.4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mutant 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 0.6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Mutant 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 0.8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Blank - end
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+BSA 1.0
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+\-----------
+{{< tdclose >}}
+{{< tdopen >}}
+\-----------
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Next Time
 -------------

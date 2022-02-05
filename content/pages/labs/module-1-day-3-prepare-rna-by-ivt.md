@@ -6,7 +6,7 @@ title: 'Module 1, Day 3: Prepare RNA by IVT'
 uid: 5edcc5b0-04cc-d6d9-c6f5-b93bf4f13870
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-2-purify-aptamer-encoding-dna) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-affinity-column) >
 
 Introduction
 ------------
@@ -45,14 +45,96 @@ Because you are preparing RNA, you will have to take special precautions today a
 
 The table below lists the amount of each reaction component needed for an 80 μL IVT. First, you should calculate how much total IVT Master Mix to make (2 rxns plus 10% excess) and check your calculations with the teaching faculty if desired. Next, you can aliquot the appropriate amount of Master Mix into a number of eppendorf tubes, then add the relevant DNA to each labeled tube.
 
-| REAGENT | AMOUNT for 1 REACTION (μL) | AMOUNT for 2 REACTIONS + 10% |
-| --- | --- | --- |
-| G7 buffer (2.5X stock) | 32 | &nbsp; |
-| 1N KOH | 4.48 | &nbsp; |
-| Pyrophosphatase | 4 | &nbsp; |
-| NTPs | 22.4 | &nbsp; |
-| T7 polymerase | 4 | &nbsp; |
-| DNA | 13.1 | N/A 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+REAGENT
+{{< thclose >}}
+{{< thopen >}}
+AMOUNT for 1 REACTION (μL)
+{{< thclose >}}
+{{< thopen >}}
+AMOUNT for 2 REACTIONS + 10%
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+G7 buffer (2.5X stock)
+{{< tdclose >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1N KOH
+{{< tdclose >}}
+{{< tdopen >}}
+4.48
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pyrophosphatase
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NTPs
+{{< tdclose >}}
+{{< tdopen >}}
+22.4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T7 polymerase
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+DNA
+{{< tdclose >}}
+{{< tdopen >}}
+13.1
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Place your reaction tubes on the 37 °C heat block and write the time in your notebook as well as on the sheet at the front bench. After 4 hours, the reactions will be frozen at – 20 °C until next time. When everyone is ready, we will begin the journal article discussion.
 
@@ -60,15 +142,180 @@ Place your reaction tubes on the 37 °C heat block and write the time in your no
 
 Before leaving today, you and your partner should sign up for one of the column selection protocols listed in the following table:
 
-| PROTOCOL # | STUDENT PAIR | 8-12% | WASH # (PARAMETER 1) | WASH # (PARAMETER 2) | NOTE CHANGES TO PLAN HERE |
-| --- | --- | --- | --- | --- | --- |
-| 1 | &nbsp; | 2 | 4 | 24 | &nbsp; |
-| 2 | &nbsp; | 2 | 8 | 16 | &nbsp; |
-| 3 | &nbsp; | 10 | 4 | 24 | &nbsp; |
-| 4 | &nbsp; | 10 | 8 | 16 | &nbsp; |
-| 5 | &nbsp; | 50 | 4 | 24 | &nbsp; |
-| 6 | &nbsp; | 50 | 8 | 16 | &nbsp; |
-| 7 | &nbsp; | 50 | 4 | 24 |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROTOCOL #
+{{< thclose >}}
+{{< thopen >}}
+STUDENT PAIR
+{{< thclose >}}
+{{< thopen >}}
+8-12%
+{{< thclose >}}
+{{< thopen >}}
+WASH # (PARAMETER 1)
+{{< thclose >}}
+{{< thopen >}}
+WASH # (PARAMETER 2)
+{{< thclose >}}
+{{< thopen >}}
+NOTE CHANGES TO PLAN HERE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+50
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Journal Article Discussion
 --------------------------

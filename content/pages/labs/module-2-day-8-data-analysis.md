@@ -6,7 +6,7 @@ title: 'Module 2, Day 8: Data Analysis'
 uid: d9bfa075-4ac8-ea99-8914-f82c9edfb492
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering)
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-7-assay-protein-behavior#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering)
 
 Introduction
 ------------
@@ -23,7 +23,7 @@ At equilibrium, the rates of the forward reaction (rate constant = _kf_) and rev
 
 where the right-hand equation was derived by algebraic substitution. If the ligand concentration is in excess of that of the receptor, _\[L\]_ may be approximated as a constant, L, for any given equilibrium. Let's explore the implications of this result:
 
-*   What happens when _L << KD_?
+*   What happens when _L \<\< KD_?
     
     →Then _y ~ L / KD_, and the binding fraction increases in a first-order fashion, directly proportional to _L_.
     
@@ -105,12 +105,133 @@ Today you will analyze the fluorescence data that you got last time. Begin by an
 
 Following are the analysis results from the four lab groups for whom raw titration data data was supplied above.
 
-| GroupS | X#Z MutantS | Most believable KD; n for WT | Most believable KD; n for M124S | Most believable KD; n for X#Z mutant   | Comments |
-| --- | --- | --- | --- | --- | --- |
-| T/R Blue | D129P | 0.4431; 8.3 | 0.9535; 2.1 | 0.8092; 3.5 |  {{< br >}}{{< br >}} We chose the second model because the results correlated almost exactly with our predicted Excel data, factored in the cooperativity of CaM, and the absolute values of the residuals were closest to zero. The Hill coefficient shouldn't exceed 4…so we're looking into that. {{< br >}}{{< br >}}  |
-| T/R Green | G23P | 0.4606, 12.1895 | 0.3347, 0.8646 | 0.7678, 3.9190 |  {{< br >}}{{< br >}} For our M124S data, our average curve looked pretty awful, so we just took the normalized data of one of our data sets. We chose the part 2 model, which had Kd values close to those of the excel spreadsheet, accounted for cooperativity, and incorporated more data points. {{< br >}}{{< br >}}  |
-| T/R Orange | G25P | KD=.4484 n=9.3825 | KD=.9536 n=2.1191 | KD=.5555 n=-.3638 |  {{< br >}}{{< br >}} We used model 2. It fit the control and M124S best. It was okay for G25P, but didn't perfectly match. However, there was little overall change in fluorescence and none of the other models fit well. {{< br >}}{{< br >}}  |
-| W/F Red | E84K | 0.44; 11.23 | 0.86; 2.30 | 0.55; 16.63 |  {{< br >}}{{< br >}} We used the model 2 data, since it have smaller residual values, and it best match out predicted data from excel, compared to model 1. Model 3 results are not too ideal because they yield too much error (little data sets in the transition region). We eliminated the first 4 values of 1 replicate of M124S because we believe there is pipetting error. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GroupS
+{{< thclose >}}
+{{< thopen >}}
+X#Z MutantS
+{{< thclose >}}
+{{< thopen >}}
+Most believable KD; n for WT
+{{< thclose >}}
+{{< thopen >}}
+Most believable KD; n for M124S
+{{< thclose >}}
+{{< thopen >}}
+Most believable KD; n for X#Z mutant  
+{{< thclose >}}
+{{< thopen >}}
+Comments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T/R Blue
+{{< tdclose >}}
+{{< tdopen >}}
+D129P
+{{< tdclose >}}
+{{< tdopen >}}
+0.4431; 8.3
+{{< tdclose >}}
+{{< tdopen >}}
+0.9535; 2.1
+{{< tdclose >}}
+{{< tdopen >}}
+0.8092; 3.5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We chose the second model because the results correlated almost exactly with our predicted Excel data, factored in the cooperativity of CaM, and the absolute values of the residuals were closest to zero. The Hill coefficient shouldn't exceed 4…so we're looking into that.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T/R Green
+{{< tdclose >}}
+{{< tdopen >}}
+G23P
+{{< tdclose >}}
+{{< tdopen >}}
+0.4606, 12.1895
+{{< tdclose >}}
+{{< tdopen >}}
+0.3347, 0.8646
+{{< tdclose >}}
+{{< tdopen >}}
+0.7678, 3.9190
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+For our M124S data, our average curve looked pretty awful, so we just took the normalized data of one of our data sets. We chose the part 2 model, which had Kd values close to those of the excel spreadsheet, accounted for cooperativity, and incorporated more data points.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T/R Orange
+{{< tdclose >}}
+{{< tdopen >}}
+G25P
+{{< tdclose >}}
+{{< tdopen >}}
+KD=.4484 n=9.3825
+{{< tdclose >}}
+{{< tdopen >}}
+KD=.9536 n=2.1191
+{{< tdclose >}}
+{{< tdopen >}}
+KD=.5555 n=-.3638
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We used model 2. It fit the control and M124S best. It was okay for G25P, but didn't perfectly match. However, there was little overall change in fluorescence and none of the other models fit well.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+W/F Red
+{{< tdclose >}}
+{{< tdopen >}}
+E84K
+{{< tdclose >}}
+{{< tdopen >}}
+0.44; 11.23
+{{< tdclose >}}
+{{< tdopen >}}
+0.86; 2.30
+{{< tdclose >}}
+{{< tdopen >}}
+0.55; 16.63
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+We used the model 2 data, since it have smaller residual values, and it best match out predicted data from excel, compared to model 1. Model 3 results are not too ideal because they yield too much error (little data sets in the transition region). We eliminated the first 4 values of 1 replicate of M124S because we believe there is pipetting error.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Next Time
 -------------

@@ -113,7 +113,34 @@ Overall G/C content should ideally be 50 +/- 10%, because long stretches of G/C 
 
 Residue 101 of calmodulin is serine, encoded by AGC. This is residue 379 with respect to the entire inverse pericam construct, and we can find it and some flanking code in the DNA sequence from Part 1:
 
-|  {{< br >}}{{< br >}} 361 (5') GAG GAA ATC CGA GAA GCA TTC CGT GTT TTT GAC AAG GAT GGG AAC {{< br >}}{{< br >}} 376 (5') GGC TAC ATC AGC GCT GCT CAG TTA CGT CAC GTC ATG ACA AAC CTC {{< br >}}{{< br >}} To change from serine to leucine, one might choose UUA, UUG, or CUX (wherer X=U, A, G, or C). Because CUC requires only two mutations (rather than three as for the other options), we choose this codon. {{< br >}}{{< br >}} Now we must keep 15-20 bp of sequence on each side in a way that meets all our requirements. To quickly find G/C content and see secondary structures, look at IDT's [OligoAnalyzer](http://eu.idtdna.com/analyzer/Applications/OligoAnalyzer/Default.aspx) Web site. (Note that the Tm listed at this site is not one that is relevant for mutagenesis.) {{< br >}}{{< br >}} Ultimately, your primer and its complement might look like the following, which has a Tm of almost 81, and a G/C content of ~58%. {{< br >}}{{< br >}} 5' GG AAC GGC TAC ATC CTC GCT GCT CAG TTA CGT CAC G {{< br >}}{{< br >}} 3' C GTG ACG TAA CTG AGC AGC GAG GAT GTA GCC GTT CC {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+361 (5') GAG GAA ATC CGA GAA GCA TTC CGT GTT TTT GAC AAG GAT GGG AAC
+
+376 (5') GGC TAC ATC AGC GCT GCT CAG TTA CGT CAC GTC ATG ACA AAC CTC
+
+To change from serine to leucine, one might choose UUA, UUG, or CUX (wherer X=U, A, G, or C). Because CUC requires only two mutations (rather than three as for the other options), we choose this codon.
+
+Now we must keep 15-20 bp of sequence on each side in a way that meets all our requirements. To quickly find G/C content and see secondary structures, look at IDT's [OligoAnalyzer](http://eu.idtdna.com/analyzer/Applications/OligoAnalyzer/Default.aspx) Web site. (Note that the Tm listed at this site is not one that is relevant for mutagenesis.)
+
+Ultimately, your primer and its complement might look like the following, which has a Tm of almost 81, and a G/C content of ~58%.
+
+5' GG AAC GGC TAC ATC CTC GCT GCT CAG TTA CGT CAC G
+
+3' C GTG ACG TAA CTG AGC AGC GAG GAT GTA GCC GTT CC
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Next you will modify your primers further according to Part 5, if possible for your mutation.
 
@@ -139,7 +166,26 @@ Keep in mind that some stretches of DNA simply may not lend themselves to incorp
 
 Along with your notebook today, you should hand in your primer design record, and annotated printout from the Watcut Web site. The final primer should be annotated as below:
 
-|  {{< br >}}{{< br >}} GG AAC GGC TAC ATC CTC GCT GC**G** CAG TTA CGT CAC G {{< br >}}{{< br >}} The underlined codon was changed from AGC (Ser) to CTC (Leu). It is residue 379 of inverse pericam and residue 101 of calmodulin. {{< br >}}{{< br >}} The point mutation in bold creates the new restriction site FspI, TGCGCA, which begins within residue 381 of inverse pericam. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+GG AAC GGC TAC ATC CTC GCT GC**G** CAG TTA CGT CAC G
+
+The underlined codon was changed from AGC (Ser) to CTC (Leu). It is residue 379 of inverse pericam and residue 101 of calmodulin.
+
+The point mutation in bold creates the new restriction site FspI, TGCGCA, which begins within residue 381 of inverse pericam.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Finally, input your primers in today's [results table]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering/module-2-day-1-start-up-protein-engineering-results). This primer and its reverse complement will be ordered for you in time for the next class.
 

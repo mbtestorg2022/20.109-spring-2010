@@ -6,7 +6,7 @@ title: 'Module 2, Day 4: Prepare Expression System'
 uid: ede1b5d1-f140-0aec-e47a-e3cdc1a2e24f
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-5-induce-protein-and-evaluate-dna#module_2_index) >
 
 Introduction
 ------------
@@ -100,12 +100,69 @@ The table below is for _one_ reaction and assumes that each digest will consist 
 
 **If you are using the enzyme _BseRI_, you should triple the amount of enzyme in that digest due to its low stock concentration.**
 
-| &nbsp; | DIGEST 1 | DIGEST 2 |
-| --- | --- | --- |
-| Plasmid DNA | 4 μL | 4 μL |
-| 10X NEB buffer | 2.5 μL of buffer#\_\_\_\_\_ | 2.5 μL of buffer#\_\_\_\_\_ |
-| Enzyme | 0.25 μL of \_AccI\_ | 0.25 μL of \_\_\_\_\_ |
-| H2O || {{< td-colspan 2 >}}For a total volume of 25 μL{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+DIGEST 1
+{{< thclose >}}
+{{< thopen >}}
+DIGEST 2
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Plasmid DNA
+{{< tdclose >}}
+{{< tdopen >}}
+4 μL
+{{< tdclose >}}
+{{< tdopen >}}
+4 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10X NEB buffer
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 μL of buffer#\_\_\_\_\_
+{{< tdclose >}}
+{{< tdopen >}}
+2.5 μL of buffer#\_\_\_\_\_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Enzyme
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 μL of \_AccI\_
+{{< tdclose >}}
+{{< tdopen >}}
+0.25 μL of \_\_\_\_\_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+H2O
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+For a total volume of 25 μL
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  Prepare a reaction cocktail for each of the above reactions (digest 1 and digest 2) that includes water, buffer and enzyme. Prepare enough of each cocktail for 4 digests. Leave the cocktails on ice.
 2.  Aliquot 4 μL of the appropriate plasmids into five well-labeled eppendorf tubes. The labels should include the plasmid name, the enzyme(s) to be added and your team color.
@@ -128,12 +185,87 @@ For each reaction, combine the following reagents in an eppendorf tube:
 
 Mix each solution by pipetting and then transfer 12 μL to an 8-PCR-tube strip. Keep track of which sample is in which tube (A-H), and label your tubes on both the side and the top according to the table below. The teaching faculty will turn in the strips at the [MIT Biopolymers Laboratory](http://web.mit.edu/biopolymers/www/) for sequencing.
 
-| GROUP | LABEL RANGE | GROUP | LABEL RANGE |
-| --- | --- | --- | --- |
-| Red | 1-2 | Blue | 9-10 |
-| Orange | 3-4 | Pink | 11-12 |
-| Yellow | 5-6 | Purple | 13-14 |
-| Green | 7-8 | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+GROUP
+{{< thclose >}}
+{{< thopen >}}
+LABEL RANGE
+{{< thclose >}}
+{{< thopen >}}
+GROUP
+{{< thclose >}}
+{{< thopen >}}
+LABEL RANGE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Red
+{{< tdclose >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Blue
+{{< tdclose >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Orange
+{{< tdclose >}}
+{{< tdopen >}}
+3-4
+{{< tdclose >}}
+{{< tdopen >}}
+Pink
+{{< tdclose >}}
+{{< tdopen >}}
+11-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Yellow
+{{< tdclose >}}
+{{< tdopen >}}
+5-6
+{{< tdclose >}}
+{{< tdopen >}}
+Purple
+{{< tdclose >}}
+{{< tdopen >}}
+13-14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Green
+{{< tdclose >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For Next Time
 -------------

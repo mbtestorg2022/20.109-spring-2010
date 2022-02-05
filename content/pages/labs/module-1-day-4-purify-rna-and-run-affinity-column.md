@@ -6,7 +6,7 @@ title: 'Module 1, Day 4: Purify RNA and Run Affinity Column'
 uid: 6bee5b41-a34d-cb2b-7923-c9303daa44b8
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-3-prepare-rna-by-ivt) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-5-rna-to-dna-by-rt-pcr) >
 
 Introduction
 ------------
@@ -63,7 +63,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 ### Part 3: Prepare RNA for Selection
 
 1.  Dilute 75 μL of each RNA sample in selection buffer to a concentration of 8 μM.
-    *   Note that 85-90 μL of RNA is usually recovered after column elution. If you have <75 μL, let the teaching faculty know.
+    *   Note that 85-90 μL of RNA is usually recovered after column elution. If you have \<75 μL, let the teaching faculty know.
     *   The respective molecular weights of the aptamers are 31,344 g/mol and 33, 824 g/mol for 6-5 and 8-12.
     *   Most likely your final volume will be 0.5-1.5 mL; check with the teaching faculty if not.
 2.  Before continuing on, make sure you have enough of each aptamer to follow through on your experimental plan. If not, talk to the teaching faculty.

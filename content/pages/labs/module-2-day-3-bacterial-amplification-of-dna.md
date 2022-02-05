@@ -6,7 +6,7 @@ title: 'Module 2, Day 3: Bacterial Amplification of DNA'
 uid: 080f3ca5-b66b-7f32-2240-25c3a1fd5acc
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-2-site-directed-mutagenesis#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) >
 
 Introduction
 ------------
@@ -37,15 +37,132 @@ Using a 1% agarose gel prepared by the teaching faculty, you will run two sample
     *   To load your samples, draw 11 μL into the tip of your P20. Lower the tip below the surface of the buffer and directly over the well. Expel your sample into the well. Do not release the pipet plunger until after you have removed the tip from the gel box.
 5.  Once all the samples have been loaded, the teaching faculty will attach the gel box to the power supply and run the gel at 100 V for 45 minutes.
 
-| LANE | SAMPLE | LANE | SAMPLE |
-| --- | --- | --- | --- |
-| 1 | Group 1, U | 8 | Parent IPC |
-| 2 | Group 1, D | 9 | BLANK |
-| 3 | BLANK | 10 | Group 3, U |
-| 4 | Group 3, D | 11 | Group 2, 8-12 |
-| 5 | Group 2, D | 12 | BLANK |
-| 6 | BLANK | 13 | Group 4, U |
-| 7 | [DNA Ladder](https://www.neb.com/products/n3232-1-kb-dna-ladder#Product%20Information) | 14 | Group 4, D 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1, U
+{{< tdclose >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Parent IPC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Group 1, D
+{{< tdclose >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Group 3, U
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Group 3, D
+{{< tdclose >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2, 8-12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Group 2, D
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Group 4, U
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+[DNA Ladder](https://www.neb.com/products/n3232-1-kb-dna-ladder#Product%20Information)
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Group 4, D
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 While the gel runs, you can label the tubes you will need later, work on your notebooks, start the FNT assignment, etc.
 

@@ -6,7 +6,7 @@ title: 'Module 2, Day 2: Site-Directed Mutagenesis'
 uid: 6750e9c6-1f55-7b6e-d2f5-1eb58c7afcc0
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) \>
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-1-start-up-protein-engineering#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-3-bacterial-amplification-of-dna#module_2_index) \>
 
 Introduction
 ------------
@@ -63,13 +63,102 @@ We will be using the QuickChange® kit from Stratagene to perform our site-direc
 5.  Finally, add 1 μL of _PfuTurbo_ DNA polymerase (do not mix the enzyme stock when you take from it) to the reaction using your P20, and mix the reaction thoroughly by pipetting with your P200 set at 40 μL.
 6.  Once each group is ready, we will begin the thermocycler, under the following conditions:
 
-| SEGMENT | CYCLES | TEMPRATURE (° C) | TIME |
-| --- | --- | --- | --- |
-| 1 | 1 | 95 | 30 sec |
-| 2 | 18 | 95 | 30 sec |
-| &nbsp; | 55 | 1 min |
-| &nbsp; | 68 | 5 min |
-| 3 | 1 | 4 | indefinite 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEGMENT
+{{< thclose >}}
+{{< thopen >}}
+CYCLES
+{{< thclose >}}
+{{< thopen >}}
+TEMPRATURE (° C)
+{{< thclose >}}
+{{< thopen >}}
+TIME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+95
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+95
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+55
+{{< tdclose >}}
+{{< tdopen >}}
+1 min
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+68
+{{< tdclose >}}
+{{< tdopen >}}
+5 min
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+indefinite
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 1.  After the cycling is completed, set aside 10 μL of your reaction in a well-labeled eppendorf tube (mutation, lab section, team colour). You will need this undigested sample next time.
 2.  Add 1 μL of _DpnI_ to the remaining reaction mixture in the PCR tube, and pipet to mix. Samples will be incubated for one hour at 37 °C.

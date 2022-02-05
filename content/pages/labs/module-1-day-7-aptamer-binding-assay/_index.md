@@ -6,7 +6,7 @@ title: 'Module 1, Day 7: Aptamer Binding Assay'
 uid: 6074c179-64ef-9a51-f5e9-785309daca35
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-8-journal-club-continued) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-6-post-selection-ivt-and-journal-club) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-1-day-8-journal-club-continued) >
 
 Introduction
 ------------
@@ -48,15 +48,108 @@ Repeat the [Day 4]({{< baseurl >}}/pages/labs/module-1-day-4-purify-rna-and-run-
     *   If a bubble forms anyway, ask the teaching faculty to help you pop it with a needle.
 6.  Blank on selection buffer alone. Then, beginning with the heme sample, read the spectrum from 350 to 425 nm (in 0.1 nm steps). **It is essential that after each reading you send that data to the attached USB key**. To do this hit _Options_ on the touchscreen, select _More_ from the menu, and then press _Send Data_. Make sure a "sending data..." message pops up. Hit _Return_ once to return to the absorbance screen. You should also note down the absorbance value at 405 nm, and observe whether the peak appears to have shifted away from 396 to 405 nm.
 
-| SAMPLE | ABS AT 405 nm | PEAK SEEMS SHIFTED? |
-| --- | --- | --- |
-| Blank | N/A | N/A |
-| Heme alone | &nbsp; | N/A |
-| 6-5 "pre" | &nbsp; |
-| 8-12 "pre" | &nbsp; |
-| Mixture "pre" | &nbsp; |
-| Mixture "post," fewer washes | &nbsp; |
-| Mixture "post," more washes | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+ABS AT 405 nm
+{{< thclose >}}
+{{< thopen >}}
+PEAK SEEMS SHIFTED?
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Blank
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Heme alone
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-5 "pre"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-12 "pre"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mixture "pre"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mixture "post," fewer washes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mixture "post," more washes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part 3: Begin Analysis
 

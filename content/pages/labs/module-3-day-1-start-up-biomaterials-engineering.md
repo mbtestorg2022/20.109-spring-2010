@@ -106,11 +106,72 @@ Per 3D sample, you will prepare 1 mL of alginate beads (thus a cell density of 5
 
 **Materials available for 3D culture**
 
-| ALGINATE COMPANY | ALGINATE NAME | VISCOSITY | G/M RATIO |
-| --- | --- | --- | --- |
-| Sigma Aldrich | "low viscosity" | 250 cps at 2% | "high M" |
-| FMC Biopolymer | Protanal LF 120M | 70-150 cps at 1% | ~40/60 |
-| FMC Biopolymer | Protanal LF 10/60 | 20-70 cps at 1% | ~70/30 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ALGINATE COMPANY
+{{< thclose >}}
+{{< thopen >}}
+ALGINATE NAME
+{{< thclose >}}
+{{< thopen >}}
+VISCOSITY
+{{< thclose >}}
+{{< thopen >}}
+G/M RATIO
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sigma Aldrich
+{{< tdclose >}}
+{{< tdopen >}}
+"low viscosity"
+{{< tdclose >}}
+{{< tdopen >}}
+250 cps at 2%
+{{< tdclose >}}
+{{< tdopen >}}
+"high M"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+FMC Biopolymer
+{{< tdclose >}}
+{{< tdopen >}}
+Protanal LF 120M
+{{< tdclose >}}
+{{< tdopen >}}
+70-150 cps at 1%
+{{< tdclose >}}
+{{< tdopen >}}
+~40/60
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+FMC Biopolymer
+{{< tdclose >}}
+{{< tdopen >}}
+Protanal LF 10/60
+{{< tdclose >}}
+{{< tdopen >}}
+20-70 cps at 1%
+{{< tdclose >}}
+{{< tdopen >}}
+~70/30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 FMC Biopolymer alginates are samples generously donated by the company.
 

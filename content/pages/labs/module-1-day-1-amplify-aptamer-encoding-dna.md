@@ -59,14 +59,117 @@ Before starting today's wet lab work, you may want to wipe down your pipettes an
     *   _What would it mean if your no-template control resulted in amplification of DNA the same size as your aptamers?_
 3.  The PCR will run for about 1 hour, on the following cycle:
 
-| SEGMENTS | CYCLES | TEMPERATURE (° C) | TIME |
-| --- | --- | --- | --- |
-| 1 | 1 | 94 | 4 min |
-| 2-4 | 25 | 94 | 30 sec |
-| &nbsp; | 57 | 30 sec |
-| &nbsp; | 72 | 30 sec |
-| 5 | 1 | 72 | 10 min |
-| 6 | 1 | 4 | indefinite 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SEGMENTS
+{{< thclose >}}
+{{< thopen >}}
+CYCLES
+{{< thclose >}}
+{{< thopen >}}
+TEMPERATURE (° C)
+{{< thclose >}}
+{{< thopen >}}
+TIME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+94
+{{< tdclose >}}
+{{< tdopen >}}
+4 min
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-4
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+94
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+57
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+30 sec
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+72
+{{< tdclose >}}
+{{< tdopen >}}
+10 min
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+indefinite
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Part 3: Introduction to Computational Analysis
 ----------------------------------------------

@@ -6,7 +6,7 @@ title: 'Module 3, Day 7: Wrap-Up Analysis'
 uid: 5f8e672f-9f42-ac26-3579-a568a4d379d1
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering)
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering)
 
 Introduction
 ------------

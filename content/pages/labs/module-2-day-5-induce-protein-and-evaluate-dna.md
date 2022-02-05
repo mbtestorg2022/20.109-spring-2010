@@ -6,7 +6,7 @@ title: 'Module 2, Day 5: Induce Protein and Evaluate DNA'
 uid: c902c8ea-545c-743f-443e-440ff96d6753
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-2-day-4-prepare-expression-system#module_2_index) | [Module 2 lab index]({{< baseurl >}}/pages/labs#Module_2:_Protein_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-2-day-6-characterize-protein-expression#module_2_index) >
 
 Introduction
 ------------
@@ -56,18 +56,144 @@ Protocols
 
 The scheme below assumes that both Digest 1 (D1, used to analyze the M124S mutant) and Digest 2 (D2, used to analyze your X#Z mutant candidates) use only one enzyme. If you are doing double-digests and need to run single enzyme controls, hopefully you spoke to the teaching faculty about this last time. Load your samples on a 1% agarose gel in the following order, using 10 μL per ladder and 20 μL per plasmid:
 
-| LANE | SAMPLE | DIGEST |
-| --- | --- | --- |
-| 1 | IPC | uncut |
-| 2 | IPC | D1 |
-| 3 | M124S | D1 |
-| 4 | [1 Kb marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Product%20Information) | &nbsp; |
-| 5 | IPC | D2 |
-| 6 | X#Z-1 | D2 |
-| 7 | X#Z-2 | D2 |
-| 8 | [100 bp marker](http://www.neb.com/nebecomm/products/productN3231.asp) | (if relevant for your band sizes) |
-| 9 | X#Z-1 | uncut |
-| 10 | X#Z-2 | uncut 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+DIGEST
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+IPC
+{{< tdclose >}}
+{{< tdopen >}}
+uncut
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+IPC
+{{< tdclose >}}
+{{< tdopen >}}
+D1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+M124S
+{{< tdclose >}}
+{{< tdopen >}}
+D1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+[1 Kb marker](https://www.neb.com/products/n0468-quick-load-1-kb-dna-ladder#Product%20Information)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+IPC
+{{< tdclose >}}
+{{< tdopen >}}
+D2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+X#Z-1
+{{< tdclose >}}
+{{< tdopen >}}
+D2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+X#Z-2
+{{< tdclose >}}
+{{< tdopen >}}
+D2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+[100 bp marker](http://www.neb.com/nebecomm/products/productN3231.asp)
+{{< tdclose >}}
+{{< tdopen >}}
+(if relevant for your band sizes)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+X#Z-1
+{{< tdclose >}}
+{{< tdopen >}}
+uncut
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+X#Z-2
+{{< tdclose >}}
+{{< tdopen >}}
+uncut
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Once all the samples are loaded, the power will be applied (100 V for 45 minutes) and the gel will be photographed. When the gel is ready, you will compare the band sizes in the photograph with the expected band sizes that you previously calculated. In the meantime, you can analyze your sequence data.
 

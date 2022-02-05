@@ -6,7 +6,7 @@ title: 'Module 3, Day 5: Transcript-Level Analysis'
 uid: 19f9a2df-e9b2-ac78-8d63-8c61e8b08b1d
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-3-day-4-preparing-cells-for-analysis) | [Module 3 lab index]({{< baseurl >}}/pages/labs#Module_3:_Cell-Biomaterial_Engineering) | [Next lab day]({{< baseurl >}}/pages/labs/module-3-day-6-protein-level-analysis) >
 
 Introduction
 ------------
@@ -45,16 +45,147 @@ We will run this assay in a 96-well microtiter plate, as we did for the fluoresc
 2.  The first step in indirect ELISA is to adsorb all your samples to the wells. You will also need to prepare standard samples in the same plate, which get treated just the same as your test samples. These standards will be used as a reference for protein concentration. Both standards and unknown samples will be run in duplicate, per the following table.
     
 
-| &nbsp; | 1 COLLAGEN | 2 STANDARDS | 3 SAMPLES |
-| --- | --- | --- | --- |
-| A | 10 μg/mL | 10 μg/mL (duplicate) | Sample 1 |
-| B | 5 | " | Sample 1(duplicate) |
-| C | 2.5 | " | Sample 2 |
-| D | 1.25 | " | Sample 2(duplicate) |
-| E | 625 μg/mL | " | BLANK |
-| F | 312 | " | BLANK |
-| G | 516 | " | BLANK |
-| H | 78 | " | BLANK 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ 
+{{< thclose >}}
+{{< thopen >}}
+1 COLLAGEN
+{{< thclose >}}
+{{< thopen >}}
+2 STANDARDS
+{{< thclose >}}
+{{< thopen >}}
+3 SAMPLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+A
+{{< tdclose >}}
+{{< tdopen >}}
+10 μg/mL
+{{< tdclose >}}
+{{< tdopen >}}
+10 μg/mL (duplicate)
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+B
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 1(duplicate)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+2.5
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+D
+{{< tdclose >}}
+{{< tdopen >}}
+1.25
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 2(duplicate)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E
+{{< tdclose >}}
+{{< tdopen >}}
+625 μg/mL
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+312
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+G
+{{< tdclose >}}
+{{< tdopen >}}
+516
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+H
+{{< tdclose >}}
+{{< tdopen >}}
+78
+{{< tdclose >}}
+{{< tdopen >}}
+"
+{{< tdclose >}}
+{{< tdopen >}}
+BLANK
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Suggested ELISA plan. This plan can be used for both your collagen I and your collagen II plate. In each case, columns 1 and 2 are duplicates of the collagen standards, and column 3 contains your experimental samples and a few wells (labeled BLANK) to measure background.
 
@@ -92,13 +223,102 @@ Suggested ELISA plan. This plan can be used for both your collagen I and your co
 4.  Load your samples according to the table below, being careful to load the same amount in each well.
 5.  The samples will be run for ~ 45 min at 125V. The teaching faculty will then assist you in getting pictures with as high contrast as possible - bring your thumb drive.
 
-| LANE | COLLAGEN TYPE | SAMPLE | VOLUME TO LOAD (μL) |
-| --- | --- | --- | --- |
-| 1 | N/A | 100 bp ladder | 10 |
-| 2 | CN I | Sample 1 | 18 |
-| 3 | CN I | Sample 2 | 18 |
-| 4 | CN II | Sample 1 | 18 |
-| 5 | CN II | Sample 2 | 18 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LANE
+{{< thclose >}}
+{{< thopen >}}
+COLLAGEN TYPE
+{{< thclose >}}
+{{< thopen >}}
+SAMPLE
+{{< thclose >}}
+{{< thopen >}}
+VOLUME TO LOAD (μL)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+{{< tdopen >}}
+100 bp ladder
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+CN I
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 1
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+CN I
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 2
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+CN II
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 1
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+CN II
+{{< tdclose >}}
+{{< tdopen >}}
+Sample 2
+{{< tdclose >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part 3: Begin ImageJ Analysis
 

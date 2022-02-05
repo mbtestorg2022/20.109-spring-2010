@@ -68,7 +68,7 @@ Today you will make 100 ml of a 0.5M sorbitol solution and measure its pH. Makin
 Balance
 
 1.  Put on gloves and eye protection to weigh out solids. This protects you from the chemicals and the chemicals from getting contaminated with anything foreign on your hands. Sorbitol is not a dangerous chemical.
-2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T <- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
+2.  Zero the balance with a medium size weigh boat on it. Weigh boats are kept in the drawer under the balance. The marked button marked -> O/T \<- will zero ("tare") the balance and the display should read 0.0000 after taring. Be sure to close the balance doors when taring the balance.
 3.  Use a spatula to measure 9.1 grams of sorbitol. To measure this, open the balance doors and hold the spatula and chemical over the weigh boat. Begin by adding only a small amount of the powder to the weigh boat. Once you determine how much that weighs, you can add correspondingly more. If you have weighed out too much, you can put some back as long as you have used a clean spatula and a clean weigh boat.
 4.  Remove the weigh boat with your sorbitol from the balance, gently bend the ends together and pour the contents into a beaker. Tap the back of the weigh boat to loosen any powder that is stuck. The weigh boat can be discarded in the trash since sorbitol is not dangerous.
 5.  Clean the balance with a brush. Clean the area around the balance with a wet paper towel.
@@ -168,14 +168,81 @@ Our lab is beautifully equipped. The tissue culture facility has six hoods with 
 
 Match the names of the scientists (below) with the equipment the names are taped to. If you have questions, ask one of the teaching faculty.
 
-| Tissue culture hood (also called Biosafety Cabinet) | Feynman |
-| CO2 tank | Darwin |
-| 37° incubator | Mendel |
-| 4° deli case | Newton |
-| inverted microscope | Galileo |
-| biosharps container | Curie |
-| biohazard container | Franklin |
-| centrifuge | Passteur 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tissue culture hood (also called Biosafety Cabinet)
+{{< tdclose >}}
+{{< tdopen >}}
+Feynman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CO2 tank
+{{< tdclose >}}
+{{< tdopen >}}
+Darwin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37° incubator
+{{< tdclose >}}
+{{< tdopen >}}
+Mendel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4° deli case
+{{< tdclose >}}
+{{< tdopen >}}
+Newton
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+inverted microscope
+{{< tdclose >}}
+{{< tdopen >}}
+Galileo
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+biosharps container
+{{< tdclose >}}
+{{< tdopen >}}
+Curie
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+biohazard container
+{{< tdclose >}}
+{{< tdopen >}}
+Franklin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+centrifuge
+{{< tdclose >}}
+{{< tdopen >}}
+Passteur
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### {{< anchor "Station_8" >}}{{< /anchor >}}Station 8: Introduction to Lab Safety Equipment (Self-Guided)
 

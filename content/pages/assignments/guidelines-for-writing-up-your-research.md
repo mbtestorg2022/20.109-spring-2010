@@ -109,10 +109,57 @@ Tables are used to present repetitive data that is numerical. Graphs or illustra
 
 When you prepare your figures and tables, keep in mind that it is significantly more expensive for journals to publish figures and tables than text, so try to present the data in a way that is worthy of such added expense. The table below is an example of an ineffective table.
 
-| TEMPERATURE | REPEATS | CORTICAL CELLS | ION FLOW |
-| --- | --- | --- | --- |
-| 24°C | 5 | + | + |
-| 24°C | 5 | \- | \- 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TEMPERATURE
+{{< thclose >}}
+{{< thopen >}}
+REPEATS
+{{< thclose >}}
+{{< thopen >}}
+CORTICAL CELLS
+{{< thclose >}}
+{{< thopen >}}
+ION FLOW
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24°C
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
++
+{{< tdclose >}}
+{{< tdopen >}}
++
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24°C
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+{{< tdopen >}}
+\-
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The information in Table 1 could be presented in one sentence, such as: "In ten experiments carried out at 24°C, ion flow was detected only in the presence of cortical cells." This is a clearer and more concise way to present the information. In addition, all tables and figures must have numbers, titles and legends.
 
@@ -161,21 +208,449 @@ The following table describes the features of reports that are excellent, good, 
 
 ### {{< anchor "Content" >}}{{< /anchor >}}Content
 
-| SECTION | GOAL | EVALUATION |
-| --- | --- | --- |
-| Title | To give content information to reader | \- Engaging | \- Appropriate | \- Not enough content information or too much |
-| Abstract | To concisely summarize the experimental question, general methods, major findings, and implications of the experiments in relation to what is known or expected. |  {{< br >}}{{< br >}} \- Key information is presented completely and in a clear, concise way> {{< br >}}{{< br >}} \- All information is correct {{< br >}}{{< br >}} \- Organization is logical {{< br >}}{{< br >}} \- Captures any reader’s interest {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \-Sufficient information is presented in proper format {{< br >}}{{< br >}} \- Would benefit from some reorganization {{< br >}}{{< br >}} \- Understandable with some prior knowledge of experiment {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Some key information is omitted or tangential information is included {{< br >}}{{< br >}} \- Some information is misrepresented {{< br >}}{{< br >}} \- Some implications are omitted {{< br >}}{{< br >}} \- Incorrect format is used {{< br >}}{{< br >}}  |
-| Introduction | To identify central experimental questions, and appropriate background information. To present a plausible hypothesis and a means of testing it. |  {{< br >}}{{< br >}} \- Relevant background information is presented in balanced, engaging way {{< br >}}{{< br >}} \- Your experimental goals and predictions are clear and seem a logical extension of existing knowledge {{< br >}}{{< br >}} \-Writing is easy to read {{< br >}}{{< br >}} \-All background information is correctly referenced {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Relevant background information is presented but could benefit from reorganization {{< br >}}{{< br >}} \- Your experiment is well described and a plausible hypothesis is given {{< br >}}{{< br >}} \- With some effort, reader can connect your experiments to background information {{< br >}}{{< br >}} \- Writing is understandable {{< br >}}{{< br >}} \- Background information is correctly referenced {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Background information is too general, too specific, missing and/or misrepresented {{< br >}}{{< br >}} \- Experimental question is incorrectly or not identified {{< br >}}{{< br >}} \- No plausible hypothesis is given {{< br >}}{{< br >}} \- Writing style is not clear, correct or concise {{< br >}}{{< br >}} \- References are not given or properly formatted {{< br >}}{{< br >}}  |
-| Materials & Methods | To describe procedures correctly, clearly, and succinctly. Included a correctly formatted citation of the lab manual. |  {{< br >}}{{< br >}} \- Sufficient for another researcher to repeat your experiment {{< br >}}{{< br >}} \- Lab manual cited {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Procedures could be pieced together with some effort {{< br >}}{{< br >}} \- Lab manual cited {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Procedures incorrectly or unclearly described or omitted {{< br >}}{{< br >}} \- Lab manual not cited {{< br >}}{{< br >}}  |
-| Results | To present your data using text AND figures/tables. |  {{< br >}}{{< br >}} \- Text tells story of your major findings in logical and engaging way {{< br >}}{{< br >}} \- Figures and tables are formatted for maximum clarity and ease of interpretation {{< br >}}{{< br >}} \- All figures and tables have numbers, titles and legends that are easy for the reader to follow {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Text presents data but could benefit from reorganization or editing to make story easier for reader {{< br >}}{{< br >}} \- Text includes interpretation of results that is better suited for discussion section {{< br >}}{{< br >}} \- Figures and tables are formatted to be clear and interpretable {{< br >}}{{< br >}} \- All figures and tables have numbers, titles and legends {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Text omits key findings, inaccurately describes data, or includes irrelevant information {{< br >}}{{< br >}} \- Text difficult to read due to style or mechanics of writing {{< br >}}{{< br >}} \- Text difficult to read due to logic or organization {{< br >}}{{< br >}} \- Figures and tables missing information, improperly formatted or poorly designed {{< br >}}{{< br >}} \- Figures and tables have inadequate or missing titles or legends {{< br >}}{{< br >}}  |
-| Discussion | To evaluate meaning and importance of major findings |  {{< br >}}{{< br >}} \- Appropriate conclusions drawn from findings {{< br >}}{{< br >}} \- Connections made between experimental findings {{< br >}}{{< br >}} \- Connections made between findings and background information {{< br >}}{{< br >}} \- Future directions considered {{< br >}}{{< br >}} \- Writing is compelling {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Appropriate conclusions drawn from findings {{< br >}}{{< br >}} \- Experimental limitations considered {{< br >}}{{< br >}} \- Writing is clear {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Conclusions omitted, incorrectly drawn or not related to hypothesis. {{< br >}}{{< br >}} \- Relationship between experimental findings and background information is missing or incorrectly drawn {{< br >}}{{< br >}} \- Writing style and mechanics make argument difficult to follow {{< br >}}{{< br >}}  |
-| References | To give credit work on which your own is based |  {{< br >}}{{< br >}} \- Complete list of reliable sources, including peer-reviewed journal article(s) {{< br >}}{{< br >}} \- Properly formatted in body of report and in reference section {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Adequate list or reliable sources {{< br >}}{{< br >}} \- With minor exceptions, properly formatted in body of report and in reference section {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- List is incomplete or includes sources not cited in body of report {{< br >}}{{< br >}} \- List includes inappropriate sources {{< br >}}{{< br >}} \- List not properly formatted {{< br >}}{{< br >}} \- References not properly cited in body of report {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SECTION
+{{< thclose >}}
+{{< thopen >}}
+GOAL
+{{< thclose >}}
+{{< thopen >}}
+EVALUATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Title
+{{< tdclose >}}
+{{< tdopen >}}
+To give content information to reader
+{{< tdclose >}}
+{{< tdopen >}}
+\- Engaging
+{{< tdclose >}}
+{{< tdopen >}}
+\- Appropriate
+{{< tdclose >}}
+{{< tdopen >}}
+\- Not enough content information or too much
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Abstract
+{{< tdclose >}}
+{{< tdopen >}}
+To concisely summarize the experimental question, general methods, major findings, and implications of the experiments in relation to what is known or expected.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Key information is presented completely and in a clear, concise way>
+
+\- All information is correct
+
+\- Organization is logical
+
+\- Captures any reader’s interest
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\-Sufficient information is presented in proper format
+
+\- Would benefit from some reorganization
+
+\- Understandable with some prior knowledge of experiment
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Some key information is omitted or tangential information is included
+
+\- Some information is misrepresented
+
+\- Some implications are omitted
+
+\- Incorrect format is used
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+To identify central experimental questions, and appropriate background information. To present a plausible hypothesis and a means of testing it.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Relevant background information is presented in balanced, engaging way
+
+\- Your experimental goals and predictions are clear and seem a logical extension of existing knowledge
+
+\-Writing is easy to read
+
+\-All background information is correctly referenced
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Relevant background information is presented but could benefit from reorganization
+
+\- Your experiment is well described and a plausible hypothesis is given
+
+\- With some effort, reader can connect your experiments to background information
+
+\- Writing is understandable
+
+\- Background information is correctly referenced
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Background information is too general, too specific, missing and/or misrepresented
+
+\- Experimental question is incorrectly or not identified
+
+\- No plausible hypothesis is given
+
+\- Writing style is not clear, correct or concise
+
+\- References are not given or properly formatted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Materials & Methods
+{{< tdclose >}}
+{{< tdopen >}}
+To describe procedures correctly, clearly, and succinctly. Included a correctly formatted citation of the lab manual.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Sufficient for another researcher to repeat your experiment
+
+\- Lab manual cited
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Procedures could be pieced together with some effort
+
+\- Lab manual cited
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Procedures incorrectly or unclearly described or omitted
+
+\- Lab manual not cited
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Results
+{{< tdclose >}}
+{{< tdopen >}}
+To present your data using text AND figures/tables.
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Text tells story of your major findings in logical and engaging way
+
+\- Figures and tables are formatted for maximum clarity and ease of interpretation
+
+\- All figures and tables have numbers, titles and legends that are easy for the reader to follow
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Text presents data but could benefit from reorganization or editing to make story easier for reader
+
+\- Text includes interpretation of results that is better suited for discussion section
+
+\- Figures and tables are formatted to be clear and interpretable
+
+\- All figures and tables have numbers, titles and legends
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Text omits key findings, inaccurately describes data, or includes irrelevant information
+
+\- Text difficult to read due to style or mechanics of writing
+
+\- Text difficult to read due to logic or organization
+
+\- Figures and tables missing information, improperly formatted or poorly designed
+
+\- Figures and tables have inadequate or missing titles or legends
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+To evaluate meaning and importance of major findings
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Appropriate conclusions drawn from findings
+
+\- Connections made between experimental findings
+
+\- Connections made between findings and background information
+
+\- Future directions considered
+
+\- Writing is compelling
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Appropriate conclusions drawn from findings
+
+\- Experimental limitations considered
+
+\- Writing is clear
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Conclusions omitted, incorrectly drawn or not related to hypothesis.
+
+\- Relationship between experimental findings and background information is missing or incorrectly drawn
+
+\- Writing style and mechanics make argument difficult to follow
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+References
+{{< tdclose >}}
+{{< tdopen >}}
+To give credit work on which your own is based
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Complete list of reliable sources, including peer-reviewed journal article(s)
+
+\- Properly formatted in body of report and in reference section
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Adequate list or reliable sources
+
+\- With minor exceptions, properly formatted in body of report and in reference section
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- List is incomplete or includes sources not cited in body of report
+
+\- List includes inappropriate sources
+
+\- List not properly formatted
+
+\- References not properly cited in body of report
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### {{< anchor "Style" >}}{{< /anchor >}}Style
 
-| WRITING STYLE AND MECHANICS | EVALUATION |
-| --- | --- |
-| Voice |  {{< br >}}{{< br >}} \- Appropriate for audience {{< br >}}{{< br >}} \- Consistent passive or active voice {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Too simple or too advanced {{< br >}}{{< br >}} \- Irregular use of passive and active voice {{< br >}}{{< br >}}  |
-| Word Choice |  {{< br >}}{{< br >}} \- Concise {{< br >}}{{< br >}} \- Says what you mean {{< br >}}{{< br >}} \- Vocabulary (scientific and otherwise) used correctly {{< br >}}{{< br >}} \- Avoid contractions and informal wording {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Verbose {{< br >}}{{< br >}} \- Ambiguous or incorrect {{< br >}}{{< br >}} \- Scientific or other vocabulary misused {{< br >}}{{< br >}} \- Informal/colloquial tone {{< br >}}{{< br >}}  |
-| Fluency |  {{< br >}}{{< br >}} \- Sentences and paragraphs well structured {{< br >}}{{< br >}} \- Clear topic for each paragraph and clear transitions between topics {{< br >}}{{< br >}} \- Punctuation correct or only minor errors {{< br >}}{{< br >}} \- Grammar correct or minor errors {{< br >}}{{< br >}} \- Spelling correct {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Sentences repetitive or awkward {{< br >}}{{< br >}} \- Ideas haphazardly arranged, logic connecting them not clear, paragraphs not focused on one topic each {{< br >}}{{< br >}} \- Periods, commas, colons and semicolons misused. {{< br >}}{{< br >}} \- Significant number of run-on sentences, sentence fragments, misplaced modifiers, subject/verb disagreements {{< br >}}{{< br >}} \- Significant number of spelling errors {{< br >}}{{< br >}}  |
-| Scientific Format |  {{< br >}}{{< br >}} \- Past tense for describing new findings {{< br >}}{{< br >}} \- Present tense used for accepted scientific knowledge and figure legends. {{< br >}}{{< br >}} \- All sections included and properly formatted {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} \- Misleading verb tenses {{< br >}}{{< br >}} \- Some sections missing {{< br >}}{{< br >}} \- Abstract not single spaced {{< br >}}{{< br >}} \- Figures missing legends {{< br >}}{{< br >}} \- References not properly formatted {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WRITING STYLE AND MECHANICS
+{{< thclose >}}
+{{< thopen >}}
+EVALUATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Voice
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Appropriate for audience
+
+\- Consistent passive or active voice
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Too simple or too advanced
+
+\- Irregular use of passive and active voice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Word Choice
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Concise
+
+\- Says what you mean
+
+\- Vocabulary (scientific and otherwise) used correctly
+
+\- Avoid contractions and informal wording
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Verbose
+
+\- Ambiguous or incorrect
+
+\- Scientific or other vocabulary misused
+
+\- Informal/colloquial tone
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fluency
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Sentences and paragraphs well structured
+
+\- Clear topic for each paragraph and clear transitions between topics
+
+\- Punctuation correct or only minor errors
+
+\- Grammar correct or minor errors
+
+\- Spelling correct
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Sentences repetitive or awkward
+
+\- Ideas haphazardly arranged, logic connecting them not clear, paragraphs not focused on one topic each
+
+\- Periods, commas, colons and semicolons misused.
+
+\- Significant number of run-on sentences, sentence fragments, misplaced modifiers, subject/verb disagreements
+
+\- Significant number of spelling errors
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Scientific Format
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Past tense for describing new findings
+
+\- Present tense used for accepted scientific knowledge and figure legends.
+
+\- All sections included and properly formatted
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\- Misleading verb tenses
+
+\- Some sections missing
+
+\- Abstract not single spaced
+
+\- Figures missing legends
+
+\- References not properly formatted
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

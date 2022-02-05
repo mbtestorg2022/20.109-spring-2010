@@ -6,7 +6,7 @@ title: 'Module 1, Day 8: Journal Club (Continued)'
 uid: 5dbc8036-e0e3-9c3c-1973-b5a70d1971f1
 ---
 
-< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-7-aptamer-binding-assay) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering)
+\< [Previous lab day]({{< baseurl >}}/pages/labs/module-1-day-7-aptamer-binding-assay) | [Module 1 lab index]({{< baseurl >}}/pages/labs#MODUle_1:_RNA_Engineering)
 
 For today's class, we will finish the student Journal Club presentations. See the [Module 1 Journal Club assignment]({{< baseurl >}}/pages/assignments/module-1-assignments-journal-club) page for more information.
 
