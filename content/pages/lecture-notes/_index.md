@@ -108,7 +108,7 @@ Creating your 20.109 presentation (Atissa Banuazizi)
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit20_109s10_lec_m2d1))
+([PDF - 1.6MB]({{< baseurl >}}/resources/mit20_109s10_lec_m2d1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +123,7 @@ Introduction
 Rational protein design
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d2))
+([PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +138,7 @@ Rational protein design
 Fluorescence and sensors
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit20_109s10_lec_m2d3))
+([PDF - 1.3MB]({{< baseurl >}}/resources/mit20_109s10_lec_m2d3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +153,7 @@ Fluorescence and sensors
 Protein expression
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d4))
+([PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +168,7 @@ Protein expression
 Review & gene analysis
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d5))
+([PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Purification and protein analysis
 Binding & affinity measurements
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d7))
+([PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d7))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +213,7 @@ Binding & affinity measurements
 High throughput engineering
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d8))
+([PDF]({{< baseurl >}}/resources/mit20_109s10_lec_m2d8))
 {{< tdclose >}}
 
 {{< trclose >}}
