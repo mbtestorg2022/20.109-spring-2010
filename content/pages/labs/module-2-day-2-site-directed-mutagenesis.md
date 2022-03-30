@@ -13,7 +13,7 @@ Introduction
 
 Last time you navigated a great deal of information in order to design mutagenized inverse pericams – nice work! Today you will put your designs into practice.
 
-![Portrait photo of Michael Smith.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-2-site-directed-mutagenesis/m2d2_fig1.jpg)
+{{< resource "4bf29e7a-d785-b8a5-9252-b2a97521ea8f" >}}
 
 Michael Smith, 1993 Chemistry Nobel Prize co-winner (with Kary Mullis, inventor of PCR) for developing site-directed mutagenesis. (© The Nobel Foundation. All rights reserved. This content is excluded from our Creative Commons license. For more information, see [http://ocw.mit.edu/fairuse](/fairuse).)
 
@@ -21,7 +21,7 @@ The site-directed mutagenesis (SDM) strategy you will use shares some features w
 
 Today you will begin by combining plasmid DNA encoding wild-type inverse pericam with the mutagenic primers you designed. These will be acted upon by a DNA polymerase to generate mutant plasmid. Even more copies of the mutant plasmid can be made by introducing it into bacteria in a process called transformation, which we'll discuss (and do!) next time. Remember that there is still parental - that is, non-mutant - DNA present in your SDM reaction mixture. In order to propagate _only_ the mutant plasmid upon introduction into bacteria, the parental DNA is specifically digested using the _DpnI_ enzyme prior to bacterial transformation. (Because _DpnI_ only digests methylated DNA, the synthetically made and thus non-methylated mutant DNA is not digested.) The resulting small linear pieces of parental DNA are simply degraded by the bacteria, whereas the largely intact (but nicked) mutant DNA is actually repaired by these very same bacteria.
 
-![Diagram showing steps of the mutagenesis process.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-2-site-directed-mutagenesis/m2d2_fig2a_b.jpg)
+{{< resource "b69a5b79-81b7-5039-a563-185f05d9f3ab" >}}
 
 Overview of the QuikChange® site-directed mutagenesis method. (Courtesy of Agilent Technologies, Inc. Used with permission.)
 

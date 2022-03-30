@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d9bfa075-4ac8-ea99-8914-f82c9edfb492
 resourcetype: Image
 title: m2d8_eq1.jpg
 uid: 601e19ed-2a5b-0371-2a20-719fda14241c

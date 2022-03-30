@@ -15,11 +15,11 @@ This is it, folks! The moment of truth. Time to find out how the proteins that y
 
 Let's start by considering the simple case of a receptor-ligand pair that are exclusive to each other, and in which the receptor is monovalent. The ligand (L) and receptor (R) form a complex (C), which reaction can be written.
 
-![](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_eq1.jpg)
+{{< resource "601e19ed-2a5b-0371-2a20-719fda14241c" >}}
 
 At equilibrium, the rates of the forward reaction (rate constant = _kf_) and reverse reaction (rate constant = _kr_) must be equivalent. Solving this equivalence yields an equilibrium dissociation constant _KD_, which may be defined either as _kr / kf,_ or as \[_R_\]\[_L_\] / \[_C_\], where brackets indicate the molar concentration of a species. Meanwhile, the fraction of receptors that are bound to ligand at equilibrium, often called y or θ, is _C / R__TOT_, where _RTOT_ indicates total (both bound and unbound) receptors. Note that the position of the equilibrium (i.e., y) depends on the starting concentrations of the reactants; however, _KD_ is always the same value. The total number of receptors _RTOT_\= _\[C\]_ (ligand-bound receptors) + _\[R\]_ (unbound receptors). Thus,
 
-![](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_eq2.jpg)
+{{< resource "2324c74b-9ce7-ddf2-d3e6-41c952685530" >}}
 
 where the right-hand equation was derived by algebraic substitution. If the ligand concentration is in excess of that of the receptor, _\[L\]_ may be approximated as a constant, L, for any given equilibrium. Let's explore the implications of this result:
 
@@ -35,7 +35,7 @@ where the right-hand equation was derived by algebraic substitution. If the liga
     
     →Then _y_ = 0.5, and the fraction of receptors that are bound to ligand is 50%. This is why you can read _KD_ directly off of the plots in Nagai's paper (compare Figure 3 and Table 1). When y = 0.5, the concentration of free calcium (our _\[L\]_) is equal to _KD_. **This is a great rule of thumb to know.**
     
-    ![Examples of a simple binding curve and set of semilog binding curves.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_fig1a.jpg) ![Examples of a simple binding curve and set of semilog binding curves.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-8-data-analysis/m2d8_fig1b.jpg)
+    {{< resource "f79896d3-681a-96c8-a930-212bd34ec4e8" >}} {{< resource "601cbe3f-d4a0-0161-ec07-e8d032e2c5f5" >}}
     
 
 Left: **Simple Binding Curve**. The binding fraction y at first increases linearly as the starting ligand concentration is increased, then asymptotically approaches full saturation (y=1). The dissociation constant KD is equal to the ligand concentration \[L\] for which y = 1/2. Right: **Semilog Binding Curves**. By converting ligand concentrations to logspace, the dissociation constants are readily determined from the sigmoidal curves' inflection points. The three curves each represent different ligand species. The middle curve has a KD close to 10 nM, while the right-hand curve has a higher KD and therefore lower affinity between ligand and receptor (vice-versa for the left-hand curve).

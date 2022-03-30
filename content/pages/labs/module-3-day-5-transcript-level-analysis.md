@@ -17,7 +17,7 @@ A great way to identify proteins is to exploit antibodies – also called immuno
 
 Antibody proteins comprise constant (C) and variable (V) regions, on both their heavy and light chains. The C regions determine antibody effector functions, such as antibody-dependent killing of infected cells. The three hypervariable portions of the V region together make up the antigen-recognition site. Only a small portion of an antigen, called an epitope, is recognized by its cognate antibody. This ~10 amino acid region may be linear, or it may be made up of linearly distant regions and thus recognized only when the antigen is in its native conformation. For example, conformation-dependent antibodies are useful for distinguishing different collagen types.
 
-![Diagram of the steps for Indirect ELISA and Sandwich ELISA.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig1.jpg)
+{{< resource "b6f2c166-4679-fb46-0e1d-1e9cd71fac56" >}}
 
 Schematics of indirect and sandwich ELISA. Triangles indicate the protein of interest, and \* indicates a conjugated enzyme for later detection. (Blocking step not shown.)
 
@@ -331,7 +331,7 @@ Today you will use an image analysis program called [ImageJ](http://rsbweb.nih.g
     *   The samples from left to right are: (ladder), CN I chondrocyte, CN I stem cell, CN II chondrocyte, CN II stem cell.
     *   In each case, the lower band is the GAPDH internal control.
 
-![Two agarose gel images.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig2a.jpg) ![Two agarose gel images.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-5-transcript-level-analysis/m3d5_fig2b.jpg)
+{{< resource "ca5f7099-0885-8d4f-225b-27d8f66f87c8" >}} {{< resource "044d4b65-8996-d36a-9d79-7fb767b3b79a" >}}
 
 Teaching faculty data for freshly isolated chondrocytes and mesenchymal stem cells.
 

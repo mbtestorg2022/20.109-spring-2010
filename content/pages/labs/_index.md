@@ -105,7 +105,7 @@ In this module you will investigate RNA aptamer selection. You may already be fa
 
 **Acknowledgement**: We thank 20.109 instructor Natalie Kuldell for helpful discussions and for acquiring funding for module development.
 
-![Diagram of a putative aptamer.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/labs_m1_fig1.jpg)
+{{< resource "d6cf9db1-840b-790f-a496-1a103d1291e4" >}}
 
 Public domain image. (Prepared using RNA Folding (mfold) at the [mFold Web Server](http://mfold.rna.albany.edu/?q=mfold/download-mfold)). Reference: Zuker, M. "Mfold Web Server for Nucleic Acid Folding and Hybridization Prediction." _Nucleic Acids Res._ 31, no. 13 (2003): 3406-3415.
 
@@ -245,11 +245,11 @@ In this experiment, you will modify a protein called inverse pericam (developed 
 
 We gratefully acknowledge 20.109 instructor Natalie Kuldell for helpful discussions during the development of this module, as well as for her prior work in developing a [related module](http://openwetware.org/wiki/20.109:Module_2) in the Spring 2007 course.
 
-![labs_m2_fig1.jpg](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/labs_m2_fig1.jpg)
+{{< resource "c54f55f1-3f57-fa02-f1a1-6b41a696bf73" >}}
 
 Raw titration curve for IPC. Shown here is sample data from the teaching lab: normalized fluorescence for wild-type inverse pericam as a function of calcium concentration. As you will later learn, an apparent KD can be estimated from such a plot: it is the point on the x-axis where the curve crosses y = 50%, or ~0.5 μM here
 
-![labs_m2_fig2.jpg](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/labs_m2_fig2.jpg)
+{{< resource "041afc0e-47f2-ad63-d7ff-f6d92b255a6d" >}}
 
 Fitted titration curve for IPC. A more sophisticated analysis using curve-fitting reveals KD to be ~ 0.3 μM, closer to the reported value for inverse pericam.
 
@@ -387,7 +387,7 @@ _What makes a cell become one type and not another? How can we influence this pr
 
 I gratefully acknowledge Professor Alan Grodzinsky and several members of his lab group (particularly Rachel Miller and Paul Kopesky), for their technical advice and stimulating discussions during the development of this module.
 
-![Two micrograph images.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/labs_m3_fig1.jpg)
+{{< resource "0201cdef-b5d0-bbcc-bcb5-e27b697090f4" >}}
 
 Morphology of primary bovine chondrocytes grown under two different culture conditions. Optical micrographs of chondrocytes grown in monolayer (left) and alginate bead culture (right) are shown. Cells in the 3D culture retain a round phenotype, while cells on the flat surface extend processes and spread out.
 

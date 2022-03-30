@@ -17,13 +17,13 @@ The RT in RT-PCR here stands for reverse transcription, that is, making DNA from
 
 One somewhat unusual component in your RT-PCR reactions today is BSA, or bovine serum albumin. In the pilot experiments for this module we found that heme itself (which you used during your column elution last time) inhibits the RT-PCR! The inhibition may be due to hydrophobic interactions between heme and the polymerase, and adding a hydrophobic protein such as BSA to compete with this interaction seems to work. In Prof. Niles's original work, he used a different RT-PCR kit that did not face this inhibition issue, which goes to show that sometimes very subtle factors are at play when an experiment goes wrong! Trouble-shooting is a key part of learning to do research.
 
-![Chemical diagram of Protoporphyrin](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-5-rna-to-dna-by-rt-pcr/m1d5_fig1.jpg)
+{{< resource "c08309dc-8de5-b4b9-76ae-ebeebcdb6a5d" >}}
 
 Protoporphyrin IX. (Source: Wikimedia Commons, public domain)
 
 One week from now, you'll perform the aptamer-heme binding assay, so now is a good time to take a closer look at heme. Heme and similar compounds contain a large porphyrin or proto-porphyrin ring (see figure). The functional unit of porphyrin is a pyrrole, an amine heterocycle; four pyrroles make up a porphyrin. As you may know, conjugated aromatic rings often exhibit interesting spectroscopic or fluorescent properties. Heme's natural absorbance maximum, or Soret peak, is at about 396 nm. Aptamers that do not bind heme do not affect the location of this maximum, though they may slightly shift the height of the entire curve. However, heme-binding aptamers shift the Soret maximum to about 405 nm, and also substantially increase the magnitude of the peak. See the figure below.
 
-![Graph of four curves, showing shifting peak from 396 to 405 nm, and peak magnitude growing from 0.27 to 0.38. ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-5-rna-to-dna-by-rt-pcr/m1d5_fig2.gif)
+{{< resource "59946b16-af2a-eb37-98ae-a32f14052b66" >}}
 
 Heme-binding aptamers shift the Soret maximum to about 405 nm, and also substantially increase the magnitude of the peak.
 
@@ -233,7 +233,7 @@ Assuming there is time after the WAC session, you will prepare aliquots of your 
 Results
 -------
 
-![Photo of electrophoresis gel with ladders of individual lines in lanes 1 and 10, and a bright single line in lanes 2 through 7.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-5-rna-to-dna-by-rt-pcr/m1d5_sample.jpg)
+{{< resource "fafb8d0a-137d-e94f-466e-aac840a7377e" >}}
 
 A sample DNA gel showing three group’s data from Module 1, Day 5. Lanes 1 and 10 contain DNA standards of known length (New England BioLabs 100 bp DNA ladder). Lanes 2-7 show RT-PCR products just above 100 bp in size, as expected. Each group ran two reactions, one for each wash condition that they tried. (Results courtesy of Leanna Morinishi, Ariana Chehrazi, Jacqueline Söegaard, and three other anonymous MIT students. Used with permission).
 

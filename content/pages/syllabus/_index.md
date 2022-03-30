@@ -15,7 +15,7 @@ Prerequisites
 *   Biology [GIR](http://www.mitadmissions.org/topics/learning/general_institute_requirements/index.shtml) (One of [7.012](/courses/7-012-introduction-to-biology-fall-2004), [7.013](/courses/7-013-introductory-biology-spring-2013), or [7.014](/courses/7-014-introductory-biology-spring-2005))
 *   Chemistry [GIR](http://www.mitadmissions.org/topics/learning/general_institute_requirements/index.shtml) (One of [3.091](/courses/3-091sc-introduction-to-solid-state-chemistry-fall-2010), [5.111](/courses/5-111-principles-of-chemical-science-fall-2008), or [5.112](/courses/5-112-principles-of-chemical-science-fall-2005));
 *   [6.00 Introduction to Computer Science and Programming](/courses/6-00-introduction-to-computer-science-and-programming-fall-2008)
-*   [18.03 Differential Equations](/courses/18-03-differential-equations-spring-2010/pages/index.htm)
+*   [18.03 Differential Equations](/courses/18-03-differential-equations-spring-2010)
 *   [20.110J Thermodynamics of Biomolecular Systems](/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005) or 20.111J Physical Chemistry of Biomolecular Systems
 
 How 20.109 Varies from Term to Term

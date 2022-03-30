@@ -40,7 +40,7 @@ Half the class today will start in the cell culture facility and half will start
 
 **Background**
 
-![Photos of normal and transformed mouse fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig1a.jpg) ![Photos of normal and transformed mouse fibroblasts.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig1b.jpg)
+{{< resource "47290f4f-1088-2d76-bdea-4fc38d316115" >}} {{< resource "5f1fde71-4258-404f-f61b-4840f3d09fd1" >}}
 
 Normal and transformed mouse fibroblasts. (Courtesy of G. Steven Martin. Used with permission.)
 
@@ -75,7 +75,7 @@ Each of you will have a 35 mm dish of mouse embryonic stem (MES) cells that you 
     *   This slide has an etched grid of nine large squares. The square in the center is further etched into 25 squares each with a volume of 0.1 ul and 16 tiny chambers (4x4 pattern). The concentration of cells in a sample can be determined by counting the cells that fall within the 4x4 pattern and then multiplying by 10,000 to determine the number of cells/ml.
     *   You should count the cells in the four corner squares of the 25 square grid, then average the numbers to determine the concentration of cells in your suspension. Save your raw data for the Day 2 FNT assignment!
 
-![Diagram pointing out the corner location of the hemocytometer slide.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-1-start-up-biomaterials-engineering/m3d1_fig2.jpg)
+{{< resource "2554c010-b662-b542-3355-d0e9d77a9be4" >}}
 
 Counting cells using a hemocytometer
 

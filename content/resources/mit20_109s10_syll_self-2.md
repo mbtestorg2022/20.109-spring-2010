@@ -4,6 +4,7 @@ description: 'This resource contains the information related to rubric for parti
   self-assessment. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/3db4a798e252e816ea92d0d85e468a74_MIT20_109S10_syll_self.pdf
 file_type: application/pdf
+parent_uid: 5a2e497f-e49c-5201-6e67-a52f578758e7
 resourcetype: Document
 title: MIT20_109S10_syll_self.pdf
 uid: 3db4a798-e252-e816-ea92-d0d85e468a74

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 84e8174c-592f-f934-08b5-8921e05ba894
 resourcetype: Image
 title: orient_1b.jpg
 uid: c5c3bd1f-40da-1ebc-50a8-ccbf742f2ab4

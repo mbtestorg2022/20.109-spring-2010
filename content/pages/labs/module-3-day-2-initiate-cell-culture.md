@@ -15,7 +15,7 @@ Last time you proposed culture conditions for an investigation of chondrocyte ph
 
 Your two cell samples will be grown in alginate bead cultures. You have probably encountered alginates many times in your life, as thickeners in food and textiles, preservatives, and possibily at your dentist or in a pharmacy. Alginate is a polysacharride derived from seaweed, a co-polymer of mannuronic and guluronic acid. A single alginate molecule may contain long stretches of either acid (called M-blocks and G-blocks), as well as random and/or strictly alternating G/M sequences. The precise chemical composition of an alginate determines its mechanical properties, degradability, and other important characteristics. Qualities such as strength and viscosity are also influenced by the average length of the individual polymer chains (i.e., the molecular weight), and by alginate concentration. For example, high molecular weights correlate with increased viscosity. Alginates in general are shear-thinning, which is to say their viscosity decreases as shear rate increases (e.g., when quickly drawn into a syringe).
 
-![Drawing showing linear sets of 4 calcium ions flanked by G-block lines, with M-block lines extending out from the G-block.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-2-initiate-cell-culture/m3d2_fig1.jpg)
+{{< resource "4eb160bc-07c9-2d5d-23ad-0fe9f162af17" >}}
 
 **Schematic of cross-linked alginate**. G-blocks are represented by dotted lines, M-blocks by curved solid lines, and calcium ions by green circles.
 

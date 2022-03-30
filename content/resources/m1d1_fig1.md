@@ -12,6 +12,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a4698e5d-1f6b-3e32-71de-c8f8829f224f
 resourcetype: Image
 title: PCR schematic
 uid: 61889242-e6f7-5d69-47c2-be06a35917d7

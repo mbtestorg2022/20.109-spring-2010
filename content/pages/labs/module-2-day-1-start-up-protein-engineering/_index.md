@@ -38,7 +38,7 @@ To help you manage your time today, recommended times for the parts below are: P
 
 Perhaps nothing is so conducive to a feeling of intimate familiarity with a protein as studying it at the amino acid level (primary structure). For the first part of lab today, you will examine a two-dimensional representation of inverse pericam.
 
-![Schematic diagram of protein structures and sequences.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig1.jpg)
+{{< resource "5e2eed7f-4a53-ba1e-9152-1adb617f10fb" >}}
 
 Schematic structures and sequences of pericams for expression in bacteria and mammalian cells. Sequences of linkers and amino acid substitutions are shown below and above the bars, respectively. His-6, the polyhistidine tag; kz, Kozak consensus sequence; nls, nuclear localization signal; coxIV, cytochrome c oxidase subunit IV targeting signal. (Courtesy of National Academy of Sciences, U. S. A. Used with permission. Source: Nagai, T., et al. "Circularly permuted green fluorescent proteins engineered to sense Ca2+." _PNAS_ 98, no. 6 (March 6, 2001): 3197-3202. Copyright (c) 2001 National Academy of Sciences, U.S.A.)
 
@@ -87,7 +87,7 @@ Note that throughout this module, you will perform most experiments not just wit
 
 ### Part 4: Primer Design for Mutagenesis
 
-![Schematic of primer design for traditional PCR and for mutagenesis.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig2.jpg)  
+{{< resource "bb26f46c-5253-2b79-8f7f-4a57a59ff7be" >}}  
  
 
 **Schematic of primer design for traditional PCR and for mutagenesis**. PCR amplification (A) and site-directed mutagenesis (B) are depicted. Arrows represent primers. Solid lines are template DNA, with the coding strand on top. Dashed lines indicate copies of the template. (A) Primers for PCR amplification are perfectly complementary to the template. (Note: the complexity of the first few rounds of PCR is not shown.) (B) Mutagenic primers differ from the template at X. (Note: for circular DNA, the entire template will ultimately be copied.)
@@ -150,7 +150,7 @@ One goal of this module is to interrogate DNA sequences in multiple ways. To set
 
 One category of useful DNA tags are called restriction sites. These sequences, usually short and palindromic, are recognized by enzymes that cut the sites in unique and specific ways, as we will discuss further next time. For now, all you need to know is that you would like to create a new restriction site in your DNA, ideally one that exists in only one or two (or zero) other places in the entire inverse pericam plasmid. All these requirements are getting pretty complicated, and you can imagine that they become quite time-consuming to satisfy by hand! We will use some freely available computer programs to help us.
 
-![Screenshot of WatCut silent mutation analysis screen.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-1-start-up-protein-engineering/m2d1_fig3.jpg)
+{{< resource "94909ca0-8a36-4d5c-426f-bdb4fa528572" >}}
 
 **WatCut Analysis screenshot for S101L primer**. (Courtesy of Michael Palmer. Used with permission.)
 

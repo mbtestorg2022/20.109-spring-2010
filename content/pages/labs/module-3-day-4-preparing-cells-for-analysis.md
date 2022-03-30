@@ -13,7 +13,7 @@ Introduction
 
 Today you will start collecting the key data for your chondrocyte or stem cell phenotype experiment. Recall that chondrocytes may de-differentiate to fibroblasts if not kept in the appropriate environment. So, how do we tell chondrocytic and non-chondrocytic cell types apart?
 
-![Schematic diagram of cartilage tissue.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-4-preparing-cells-for-analysis/m3d4_fig1.jpg)
+{{< resource "fdb852cb-6cf2-1949-89e2-73cea049f8b8" >}}
 
 **Schematic of cartilage tissue.** Collagen fibers are shown in black, chondrocytes in light blue. Collagen fiber thickness and orientatiom, along with chondrocyte density and morphology, vary with the tissue depth. Adapted from: V. C. Mow, A. Ratcliffe, and S. L. Y. Woo, eds. _Biomechanics of Diarthrodial Joints_. Vol. 1, Chapter 8. New York, NY: Springer-Verlag, 1990. ISBN: 9780387973784.
 
@@ -21,7 +21,7 @@ Folks trying to engineer cartilage tissue have been in interested in this and si
 
 Extracellular matrix (ECM) proteins such as the collagens must be synthesized by cells. Chondrocytes readily synthesize collagen II, while fibroblasts and mesenchymal stem cells primarily synthesize collagen I. Thus, the expression and production of different collagens is one way to distinguish these cells types. To study collagen at the gene transcript level, you will break open and homogenize your cells using a lysis reagent and column (QIAshredder) and then isolate RNA using an RNeasy kit from Qiagen. The RNeasy kit includes silica gel columns, similar to the ones you used to purify DNA in Module 1, that selectively bind RNA (but not DNA) that is >200 bp long under appropriate buffer conditions. Due to size exclusion, the resultant RNA is somewhat enriched in mRNAs relative to rRNA and tRNA. To further purify for mRNA, one could use a polyT affinity column to capture the polyA tail of this RNA type, but we will not do this today.
 
-![Schematic diagram of primer design for RT-PCR.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-4-preparing-cells-for-analysis/m3d4_fig2.jpg)
+{{< resource "7f295fea-42de-f5e7-2240-c337580b3dd1" >}}
 
 **Schematic of primer design for RT-PCR.** Boxes and lines represent exons and introns, respectively. Arrows represent primers. (A) Each primer anneals to a sequence from only one exon. (B) The top primer spans two exons, thus reducing or eliminating product contamination by genomic DNA. (The dashed line indicates that the surrounding solid lines constitutes one continuous primer.)
 

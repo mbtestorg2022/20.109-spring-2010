@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a6ef5fb5-bb91-ae11-a408-6647172e10b5
 resourcetype: Image
 title: m3d3_10x_ld2_new.jpg
 uid: 542a8fd0-3bec-bb80-dce3-638448bb5269

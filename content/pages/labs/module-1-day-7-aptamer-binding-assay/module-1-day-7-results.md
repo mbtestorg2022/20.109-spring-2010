@@ -54,7 +54,7 @@ _Syntax Sample_
 {{< tdopen colspan="3" >}}
 
 
-![link.gif](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/link.gif)
+{{< resource "050665fe-838e-4202-dc05-1dcd0bd9b2ef" >}}
 
 _Comments:  
 _We used Grey group's 6-5 because we didn't have any.
@@ -87,10 +87,10 @@ T/R Orange
 {{< tdopen colspan="3" >}}
 
 
-![tr_orange_raw.gif](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_orange_raw.gif)
+{{< resource "9b89091c-60d4-f308-b50b-397cd0e649c7" >}}
 
   
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_orange_norm.gif)
+{{< resource "1ba945ae-811b-ef5a-11b0-e99d2448d8b2" >}}
 
 _Comments:  
 _Only used 1nmols each for the binding assay samples.  
@@ -124,9 +124,9 @@ W/F Yellow
 {{< tdopen colspan="3" >}}
 
 
- ![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/wf_yellow_raw.gif)
+ {{< resource "05f8d764-6938-8bfe-f69c-fe62fcbbcc75" >}}
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/wf_yellow_norm.gif)
+{{< resource "7aff51cb-56c2-5776-256c-d9715a791586" >}}
 
 _Comments:  
 _During the dilution step, we accidentally diluted it to 7.7uM as opposed to the 8uM. (This is estimating final concentration to be 50% 8-12). However, we corrected this by decreasing the amount of heme so that it was still a 1:1 ratio. Therefore, the results should not have been affected. Normalization was used to correct for the heme curve, which was lower than all the other curves. Enrichment values were close to expected ones (50%) but slightly surprising that 8 washes enriched a bit more than 16 washes.
@@ -159,10 +159,10 @@ T/R Green
 {{< tdopen colspan="3" >}}
 
 
-![tr_green_raw.gif](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_green_raw.gif)  
+{{< resource "84d8035c-7b6e-15be-75f4-220d0d371331" >}}  
  
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_green_norm.gif)
+{{< resource "f634a1d3-d56b-b34b-84d4-dbb06b5a2490" >}}
 
 _Comments:  
 _Due to the corrections, the heme and 6-5 aptamer horizontal peaks are a little off; the 6-5 aptamer graph should be shifted up from the heme graph at low absorbances, but instead, it's simply lined up with the heme graph. The other graphs seem consistent with the fact that 8-12 graph should be higher horizontally than the 6-5 graph, with the heights increasing in the following order: mix 10% pre, mix 10% post 4x, post 24x, and 8-12 aptamer.
@@ -195,9 +195,9 @@ W/F Red
 {{< tdopen colspan="3" >}}
 
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/wf_red_normdata.gif)
+{{< resource "2f810898-a501-4996-480d-ec0123af6519" >}}
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/wf_red_normgraph.gif)
+{{< resource "20653a15-3c31-0735-9a80-4b72b6bf6163" >}}
 
 
 {{< tdclose >}}
@@ -228,9 +228,9 @@ Blue
 {{< tdopen colspan="3" >}}
 
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_blue_raw.gif)
+{{< resource "f8a3f156-e21c-09f6-2d9c-6a24a184b381" >}}
 
-![Graph of absorbance vs. wavelength for five different assays, showing increasing absorbance to a peak in the range from 395 nm to 405 nm.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-7-aptamer-binding-assay/module-1-day-7-results/tr_blue_norm.gif)
+{{< resource "215f0913-5acc-71ea-8361-fcddb7d64ad1" >}}
 
 _Comments:  
 _The difference in observed % 8-12 in our pre-selection mix versus our expected value of 50% could be due to pipetting errors, and the fact that we normalized the absorbance values to our 6-5 pre-selection sample. The values for our post-selection 8-12 percentages make sense but do not exactly correspond to our predictions. We thought that with 8 washes, we'd get about 50% 8-12, but instead we got 80% (meaning our binding assay sample was diluted to less than 8 mM). For 16 washes, we predicted 75% which is close enough to 72% found experimentally. It seems like 8 washes is closer to the ideal number of washes in contrast to our original prediction that 16X would be more optimal. The horizontal peak shifts on our graph are consistent with our findings based on the vertical shifts.

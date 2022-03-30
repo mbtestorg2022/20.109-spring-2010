@@ -82,7 +82,7 @@ Before starting today, make sure to clean your bench area, pipettes, and centrif
 
 During the one hour incubation, you may write in your notebook, leave lab for a snack break, prepare for Part 4 below, or otherwise spend the time as you see fit.
 
-![Photo of a lab bench with apparatus.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-4-purify-rna-and-run-affinity-column/m1d4_fig1.jpg)
+{{< resource "73f27b15-1f57-3bc0-f29c-6fe555434fa8" >}}
 
 SELEX column set-up
 

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: b802fd25-d874-3abb-5ebe-1fab28e947bd
 resourcetype: Image
 title: m3d2_fig1.jpg
 uid: 4eb160bc-07c9-2d5d-23ad-0fe9f162af17

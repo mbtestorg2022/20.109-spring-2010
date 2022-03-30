@@ -11,7 +11,7 @@ uid: 080f3ca5-b66b-7f32-2240-25c3a1fd5acc
 Introduction
 ------------
 
-![Diagram showing bacterial transformation on an antibiotic medium.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig1.jpg)
+{{< resource "8efacee8-7791-7f07-a8a4-11f827c70719" >}}
 
 Bacterial transformation. (Figure by MIT OpenCourseWare.)
 
@@ -202,7 +202,7 @@ For Next Time
     
     A silent mutation can be introduced that results in a new _PvuI_ site at the 341st\-342nd residues of inverse pericam (ATT → ATC and TAC → GAC) , or approximately the 1020th basepair of IPC. When IPC is inserted into pRSET, its starting point is ~200bp into the pRSET plasmid. Thus, if the mutated pRSET-IPC plasmid is digested with _PvuI_, three linear fragments of DNA are the result: 470, 1050, and 2660 bp. To understand these calculations, see also the plasmid maps below. Make sure you can reproduce the numbers above before proceeding with your own samples.
     
-    ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2a.jpg) ![Two plasmid maps, comparing ](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-3-bacterial-amplification-of-dna/m2d3_fig2b.jpg)
+    {{< resource "e65674e0-92f1-0b19-829c-2e05d05bd599" >}} {{< resource "5155fe6a-4848-10c1-124e-e315331b6d68" >}}
     
     Left: IPC plasmid map (Q1). Right: Mutant plasmid map (Q1)
     

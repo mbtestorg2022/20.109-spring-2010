@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: a6ef5fb5-bb91-ae11-a408-6647172e10b5
 resourcetype: Image
 title: m3d3_40x_ld2_new.jpg
 uid: 78b69874-26ad-2990-f15f-300244edb8a9

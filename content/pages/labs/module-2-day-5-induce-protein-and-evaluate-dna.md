@@ -13,7 +13,7 @@ Introduction
 
 Last time you transformed your mutant DNA into BL21(DE3) cells. The colonies that arose were moved to liquid cultures, and today you will add IPTG to these cultures to induce protein expression by the bacteria. Next time you will purify the resultant protein. I won't shy away from telling you that there are many things that can go wrong at this stage! However, each one is certainly a learning experience.
 
-![Chemical diagrams for IPTG and Lactose,](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig1a.jpg) ![Chemical diagrams for IPTG and Lactose,](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig1b.jpg)
+{{< resource "2aa5bfa1-032a-475c-1f31-e4814fc66e7f" >}} {{< resource "a12bea1a-a036-52f5-cb08-c053b5f31d5b" >}}
 
 IPTG and Lactose. (Images: public domain.)
 
@@ -26,7 +26,7 @@ One final point to keep in mind is that not all proteins can be produced in bact
 
 After you induce your cells with IPTG, you will let the resultant protein factories do their work for 2-3 hours. During this time, you will evaluate the DNA from your two X#Z candidates (and from the M124S mutant). First, you will run your diagnostic digests from last time out on a gel. The banding patterns will allow you to determine (or diagnose) whether either of your putative X#Z mutants actually contains the new restriction site that you introduced. Of course, there is a slim possibility that the silent mutation was incorporated but the non-silent mutation wasn't. To get more direct evidence for whether the site-directed mutagenesis worked, you will analyze data from the sequencing reactions that you set up last time.
 
-![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2a.jpg) ![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2b.jpg)![Set of three images. Left: chemical diagrams comparing normal base (3'-OH required for chain elongation) and chain-terminating base (No 3'-OH). Center: photo of a sequencing gel, showing the columns for G, A, T, and C. Right: An example of sequencing trace data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_fig2c.jpg)
+{{< resource "8ea9cf0e-2b42-0abf-e08a-5e0d6cdd50d0" >}} {{< resource "ed0729f4-b3a9-57b7-5713-a91bb9d1b8fb" >}}{{< resource "0f30a660-7742-8573-a75c-1225f2ad0360" >}}
 
 Left: Normal bases versus chain-terminating bases. Center: Sequencing gel example. Right: Sequence trace data example.
 
@@ -197,7 +197,7 @@ uncut
 
 Once all the samples are loaded, the power will be applied (100 V for 45 minutes) and the gel will be photographed. When the gel is ready, you will compare the band sizes in the photograph with the expected band sizes that you previously calculated. In the meantime, you can analyze your sequence data.
 
-![Photo of an electrophoresis gel with several ladders of bright lines.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_result.jpg)
+{{< resource "6b5de2d0-4c14-47ef-9ba2-13c4e2d7d937" >}}
 
 **Sample gel result: Diagnostic digest testing for silent mutation on M124S, E84G, and IPC plasmids.** A 1% agarose gel shows the products of a digest with _AccI_ and _BseRI_ on M124S, E84G, and wild-type IPC plasmid. **Lane 1:** IPC plasmid without restriction enzymes. **Lane 2:** IPC cut with _AccI_ shows one band with linear DNA expected at 4169 bp. **Lane 3:** M124S cut with _AccI_ shows two bands approximately 3331 bp and 838 bp. **Lane 4:** 1 kpb DNA ladder (New England BioLabs). **Lane 5:** IPC cut with _BseRI_ shows linear DNA at 4169 bp. **Lanes 6 and 7:** E84G isolated from colony 1 and 2 respectively and cut with _BseRI_ show two bands expected at 3515 bp and 654 bp. **Lane 8:** 100 bp ladder (New England BioLabs). **Lanes 9 and 10:** Undigested E84G, from colony 1 and 2 respectively, shows three bands. (Photo and caption courtesy of anonymous MIT student. Used with permission.)
 
@@ -230,7 +230,7 @@ Last time you transformed BL21(DE3) cells with three different plasmids (two can
 Part 5: Cell Observation and Collection
 ---------------------------------------
 
-![Close-up photo of two small plastic Eppendorf tubes, each with a pellet in some liquid at the botton of the tube.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-5-induce-protein-and-evaluate-dna/m2d5_pellets.jpg)
+{{< resource "5a9dee82-83c1-a98d-b29e-9606a4ea08c4" >}}
 
 Examples of IPTG-induced (left) and control (right) cell pellets. The induced pellet has a yellow-green tint, in contrast to the plain white control pellet.
 

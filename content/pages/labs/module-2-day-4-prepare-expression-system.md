@@ -13,13 +13,13 @@ Introduction
 
 Now that we have prepared DNA encoding your mutant inverse pericams, we would like to actually produce the proteins. Last time you were here, you transformed competent bacteria (called XL1-Blue) with mutagenized DNA prepared from a template plasmid. Successfully transformed bacteria grew into colonies on amipicillin-containing plates, and yesterday your oh-so devoted teaching staff picked two colonies per mutant to grow in liquid culture. The XL1-Blue cell line, although it now carries the inverse pericam DNA, cannot produce the inverse pericam protein. Today you will extract DNA from the XL1-Blue cells, prepare it for analysis, and transform your IPC mutant plasmids into a new bacterial system that can produce the protein directly.
 
-![Map of feature highlights for pRSET vector.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig1.jpg)
+{{< resource "9044d227-6549-60c6-3b54-0823f2978a7e" >}}
 
 Map of pRSET A, B, & C. (Figure by MIT OpenCourseWare.) (Courtesy of Life Technologies, Carlsbad, CA. Used with permission.)
 
 The bacterial expression vector we are using ([Invitrogen pRSET A, B, & C](http://products.invitrogen.com/ivgn/product/V35120)) contains the bacteriophage T7 promoter. This promoter is active only in the presence of T7 RNA polymerase (T7RNAP), an enzyme that therefore must be expressed by the bacterial strain used to make the protein of interest. We will use the BL21(DE3)pLysS strain, which has the following genotype: F-, _omp_T _hsd_SB (rB- mB-) _gal dcm_ (DE3) pLysS (CamR). In BL21(DE3), T7RNAP is associated with a _lac_ construct, and its expression is under the control of the _lac_UV5 promoter. Due to the action of the _lac_ repressor (_lac_I gene), the polymerase will not be produced except in the presence of lactose or a small-molecule lactose analogue such as IPTG (isopropyl β-D-thiogalactoside). To further reduce 'leaky' expression of the protein of interest (in our case, inverse pericam), the pLysS version of BL21(DE3) contains T7 lysozyme, which also inhibits basal transcription of T7RNAP. This gene is retained by Chloramphenicol selection, while the pRSET plasmid itself (and thus inverse pericam) is retained by Ampicillin selection - as you learned last time.
 
-![Schematic of production process for mutant IPC protein.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig2_1.gif)
+{{< resource "322807db-1708-fc22-5670-30235d912b3b" >}}
 
 **Production of mutant IPC protein**. The mutant DNA and protein are indicated by a green colour. Blue arrows/text indicate steps performed during class time; black arrows indicate steps performed by the teaching staff.
 
@@ -36,7 +36,7 @@ Protocols
 2.  Measure the OD600 value of a 1:10 dilution of your cells (use a total volume of 600 μL). If the cells are not yet dense enough, return them to the rotary shaker in the incubator. Remember to balance with another tube! As a rule, your cells should double every 20-30 min.
     
 
-![Diagram showing how to aspirate the supernatant, with a pellet at the bottom of an eppendorf tube.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-4-prepare-expression-system/m2d4_fig3.jpg)
+{{< resource "992d076d-3e95-2b81-a73b-c5fe6fb72fc4" >}}
 
 Aspirate the supernatant, as shown, removing as few cells as possible. (Figure by MIT OpenCourseWare.)
 

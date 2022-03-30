@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of electrophoresis gel with ladders of individual lines in lanes
     1 and 10, and a bright single line in lanes 2 through 7.
+parent_uid: e11e968b-82aa-fefc-994a-6731a910335d
 resourcetype: Image
 title: m1d5_sample.jpg
 uid: fafb8d0a-137d-e94f-466e-aac840a7377e

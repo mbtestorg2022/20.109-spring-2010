@@ -15,7 +15,7 @@ Today you will obtain titration curves against calcium for your wild-type and mu
 
 In order to further benefit from this high-throughput testing format, you will make friends with the multichannel pipet, a purely mechanical rather than digital aid for repetitive experiments. This tool allows you to suck up and expel equivalent volumes of multiple identical samples (usually 8-12 at a time) with just one stroke. You will use this type of pipet to fill each row of a microtiter plate with one type of protein sample, and each column with a different concentration of calcium. Although a multichannel pipet can be sufficient for a typical research lab, in pharmaceutical companies that may be assaying thousands of samples a day, yet more steps of automation and scaling up are required, such as robotic pipet arms that obviate the need for manual pipetting at all. The degree of automation commercially available, or developed 'in-house' in a certain lab or corporation, depends in part on the frequency with which a certain assay is used. Assays used by many different labs and companies (such as fluorescence or absorbance spectrophotometry) are likely to breed commercially available high-throughput machines.
 
-![Two abstracted plots representing signal:noise data.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-7-assay-protein-behavior/m2d7_fig1.jpg)
+{{< resource "3b487a1b-61d7-d1b6-c443-13bf3174f429" >}}
 
 **Signal:noise in arbitrary data collection**. Background measurements (open circles), sample measurements (closed circles), and average values (short horizontal lines) are shown. The short line without any data points represents the reduction in average signal when background is subtracted. All measurements are with respect to an arbitrary vertical axis; the long horizontal line represents a measurement of zero.
 
@@ -38,7 +38,7 @@ Take great care today to limit the introduction of bubbles in your samples. When
 
 **Protocol**
 
-**![Schematic diagram of a titration sample.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-2-day-7-assay-protein-behavior/m2d7_fig2.jpg)**
+**{{< resource "5800824c-0ac2-4f11-ef4c-e42b6ded9e22" >}}**
 
 Titration sample preparation.
 

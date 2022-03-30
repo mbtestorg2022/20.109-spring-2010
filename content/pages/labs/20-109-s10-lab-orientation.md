@@ -53,7 +53,7 @@ No matter how fine its lens, a light microscope cannot distinguish objects close
 
 Today you will be shown how to use each of the microscopes in the main lab and you will practice visualizing and photographing a sample. You will be asked to focus a sample during the lab practical next time.
 
-![Photos of a conventional microscope and a fluorescent microscope in the lab.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_1.jpg) ![Photos of a conventional microscope and a fluorescent microscope in the lab.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_1b.jpg)
+{{< resource "a73311aa-1907-1a93-cca9-bbe2842fbda5" >}} {{< resource "c5c3bd1f-40da-1ebc-50a8-ccbf742f2ab4" >}}
 
 left: Conventional microscope and Right:Fluorescent microscope
 
@@ -63,7 +63,7 @@ Today you will make 100 ml of a 0.5M sorbitol solution and measure its pH. Makin
 
 **Part 1: At the Balance**
 
-**![Photo of a laboratory balance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_2.jpg)**
+**{{< resource "ac183c65-c1f4-f519-5e8b-9235bb508e4a" >}}**
 
 Balance
 
@@ -85,7 +85,7 @@ Balance
 
 ### {{< anchor "Station_4" >}}{{< /anchor >}}Station 4: Introduction to pH (Self-Guided)
 
-![Photo of a pH meter and electrode.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_3.jpg)
+{{< resource "5ca8d173-fd8f-7244-601e-59641b8733c5" >}}
 
 pH meter and electrode
 
@@ -100,7 +100,7 @@ pH meter and electrode
 
 Color is created when a white light strikes a molecule that then reflects light of a certain wavelength and absorbs all the others. A spectrophotometer is an instrument that measures the amount of light absorbed by a sample. It does this by shining light of a particular wavelength into a sample and measuring how much light comes all the way through. Samples are held in cuvettes between the light source and the detector.
 
-![Diagram of spectrophotometry process to measure absorbance.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_4.jpg)
+{{< resource "51f20a82-7240-b89b-54f6-dfb2ed84726a" >}}
 
 Measuring absorbance (Figure by MIT OpenCourseWare.)
 
@@ -110,7 +110,7 @@ In this assay you will investigate the calibration of your pipets by measuring t
 
 **Part 1: Using the DU 640 ("old") Spectrophotometer**
 
- **![Photos of the DU 640 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_5.jpg) ![Photos of the DU 640 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_5b.jpg)** 
+ **{{< resource "8b1544b4-b02d-06e7-eec1-cb43f22abec8" >}} {{< resource "fdc2e2c0-37ba-d4a7-348b-197fff25b182" >}}** 
 
 Left: Old spectrophotometer and Right: cuvette holder
 
@@ -124,7 +124,7 @@ Left: Old spectrophotometer and Right: cuvette holder
 
 **Part 2: Using the DU 730 ("new") Spectrophotometer**
 
- **![Photo of the DU 730 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_6.jpg) ![Photo of the DU 730 (](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_6b.jpg)** 
+ **{{< resource "07674fc0-cdf1-5630-6e57-1f444f1c0c9b" >}} {{< resource "82893694-e914-a2f7-71a8-81a170f1a525" >}}** 
 
 Left: New spectrophotometer and Right: Wavelength scan for XC solution
 
@@ -142,7 +142,7 @@ This term we will use a gel documentation station to photograph agarose gels ill
 
 After you have put on gloves, try the following:
 
-![Photo of the gel documentation station, consisting of lower cabinet with a UV transilluminator, and upper unit with keypad.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_7.jpg)
+{{< resource "48817b11-e3c3-74a1-e96c-e9877b3d48c8" >}}
 
 Gel documentation station.
 
@@ -263,7 +263,7 @@ Locate the following essential safety items in or near the lab, and write down w
 *   There should also be good agreement between the 20 ul measurements made with the P20 and the P200 as well as the 100 ul measurements made with the P200 and P1000. Is there?
 *   Confirm that your data can print from your laptops to one of the two printers in the lab (_revolver_, but not _yellow-submarine_, can do duplex printing).
 
-![Three of Abs600 vs. volume 0.01% XC (µL). Each has three data points, roughly straight-line with increasing slope; P20 has great](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/20.109-s10-lab-orientation/orient_8.jpg)
+{{< resource "a5f3b053-d1d9-abbe-e8a9-dd0ce15b481f" >}}
 
 Calibration curves for P20, P200, and P1000.
 

@@ -15,7 +15,7 @@ Back when he was a postdoctoral fellow, Professor Niles screened a random librar
 
 Today you will be given two archival plasmids containing the 6-5 and 8-12 sequences, respectively. RNA is not very stable compared to DNA; thus, RNA aptamers are copied into their associated DNA sequences for long-term storage. Ligating the DNA fragment into a plasmid that can be carried in bacteria provides further amplification and storage capabilities. We will make use of these capabilities more extensively in Module 2.
 
-![Diagram shows 5](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-1-amplify-aptamer-encoding-dna/m1d1_fig1.jpg)
+{{< resource "61889242-e6f7-5d69-47c2-be06a35917d7" >}}
 
 **PCR schematic.** Depicted are two complementary strands of DNA, with a desired target fragment shown in green. Primers that can select the target sequence are shown as short arrows, with the dotted lines indicating the extension step of PCR. Note that in the first couple rounds of PCR, products longer than the desired target will be made (dotted lines keep extending). However, these early products themselves become templates that produce the correct product in abundance.
 
@@ -23,7 +23,7 @@ In order to select and amplify just the short DNA fragment that encodes for the 
 
 Once the PCR is running, you will begin to explore some computational tools for RNA analysis. During this module, you will ultimately use three different programs to explore both sequence similarities among RNA candidate aptamers and higher-order structures that arise from the primary sequences. For today, you will look at degrees of sequence similarity among a list of aptamers, some of which bind to heme and some that don't.
 
-![Photo of Kary Mullis](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-1-day-1-amplify-aptamer-encoding-dna/kary_mullins.jpg)
+{{< resource "7781a25f-6ee2-113f-7cb1-77cbae7e755f" >}}
 
 (Photo by Mark Robert Halper. Courtesy of Kary Mullis. Used with permission.)
 

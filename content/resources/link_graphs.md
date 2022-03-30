@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2b04dfe1-8727-423d-6536-86dcb5f4bcd2
 resourcetype: Image
 title: link_graphs.gif
 uid: 3562b8fd-6bd1-22e3-cff2-42e0af42b400

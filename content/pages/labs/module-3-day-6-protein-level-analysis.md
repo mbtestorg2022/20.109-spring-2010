@@ -13,7 +13,7 @@ Introduction
 
 As you have seen in 20.109 and in the scientific literature, imaging technologies can provide valuable insight into biological systems. Each different imaging method has a particular set of associated advantages and drawbacks. For example, fluorescence microscopy can provide high-resolution images, but the penetration depth at which samples can be viewed is limited (though improved by recent developments such as multiphoton microscopy). Magnetic resonance imaging (MRI) has just the opposite characteristics, and its potential for large-area and deep tissue imaging makes it quite useful in medicine.
 
-![Photo of several live cells, and an outline drawing showing the locations and numbers of cells in the photo.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-6-protein-level-analysis/m3d6_fig1a.jpg) ![Photo of several live cells, and an outline drawing showing the locations and numbers of cells in the photo.](/courses/biological-engineering/20-109-laboratory-fundamentals-in-biological-engineering-spring-2010/labs/module-3-day-6-protein-level-analysis/m3d6_fig1b.jpg)
+{{< resource "66c1f2a1-0ba1-a1ee-366d-136814944288" >}} {{< resource "53a076e2-a2d0-7c97-1b98-05379111b67c" >}}
 
 Left: Sample image of live cells for analysis. Right: Sample cell counting result for the image.
 
